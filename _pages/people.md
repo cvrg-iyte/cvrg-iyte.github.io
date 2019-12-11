@@ -7,35 +7,35 @@ toc: true
 
 ### Principal Investigator
 
-* Yalin Bastanlar ![personal page](http://www.iyte.edu.tr/~yalinbastanlar)
+* Yalın Baştanlar [personal page](http://www.iyte.edu.tr/~yalinbastanlar)
 
 
 ### Affiliated Faculty
 
-* Mustafa Ozuysal ![personal page](http://www.iyte.edu.tr/~mustafaozuysal)
+* Mustafa Özuysal [personal page](http://www.iyte.edu.tr/~mustafaozuysal)
 
-* Nesli Erdogmus
+* Nesli Erdoğmuş
 
 
 ### Current Students
 
-* Ibrahim Cinaroglu (Ph.D. student)
+* Ibrahim Çınaroğlu (Ph.D. student)
 
 * Semih Orhan (Ph.D. student)
 
-* Yagiz Nalcakan (Ph.D. student)
+* Yağız Nalçakan (Ph.D. student)
 
-* Unver Can Unlu (M.Sc. student)
+* Ünver Can Ünlü  (M.Sc. student)
 
 
 ### Graduated students
 
-* Hakki Can Karaimer (now a post-doc at EPFL, Switzerland)
+* Hakkı Can Karaimer (now a post-doc at EPFL, Switzerland)
 
-* Ipek Baris (now a Ph.D. student in University of Koblenz-Landau, Germany)
+* Ipek Barış (now a Ph.D. student in University of Koblenz-Landau, Germany)
 
-* Ulas Tekeli (now working at ETE Solutions, Izmir)
+* Ulaş Tekeli (now working at ETE Solutions, Izmir)
 
-* Bahadir Mezgil
+* Bahadır Mezgil
 
 * Hakan Hekimgil
