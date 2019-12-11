@@ -2,56 +2,12 @@
 layout: archive
 ---
 
-<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
-
 {{ content }}
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
-
-<body bgcolor="#FFFFFF" text="#000080">
-
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
-<br>
-Group targets to conduct research on the cutting-edge topics of computer vision related research areas such as:
-<br><br>
-<b>· </b> Visual localization<br>
-<b>· </b> Vision for autonomous driving and ADAS<br>
-<b>· </b> Visual object detection/classification<br>
-<b>· </b> 3D reconstruction from images<br>
-<b>· </b> Omnidirectional (fisheye and catadioptric) cameras<br>
-<b>· </b> Object tracking, Vision for robotics<br>
-</font></p>
-
-<!-- <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
-<b>Announcement for Prospective CENG 415/416 Students: </b><br>
-Students who are willing to work on computer vision and machine learning areas are welcome to do their senior projects with me. Please read the <a href="Announcement4DesignProject.doc" target="mainFrame">announcement.</a>
-</font></p> -->
-
-<br><br>
-<br><br>
-
-<!-- Site Meter
-<script type="text/javascript" src="http://s51.sitemeter.com/js/counter.js?site=s51cvrgweb">
-</script>
-<noscript>
-<a href="http://s51.sitemeter.com/stats.asp?site=s51cvrgweb" target="_top">
-<img src="http://s51.sitemeter.com/meter.asp?site=s51cvrgweb" alt="Site Meter" border="0"/></a>
-</noscript>
--->
-
-
-
-
-
-</body>
 
 {% for post in paginator.posts %}
   {% include archive-single.html %}
 {% endfor %}
 
 {% include paginator.html %}
-</html>
