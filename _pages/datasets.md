@@ -2,7 +2,7 @@
 permalink: /datasets/
 title: "Datasets"
 excerpt: "CVRG - Datasets"
-toc: true
+toc: false
 ---
 
 <html>

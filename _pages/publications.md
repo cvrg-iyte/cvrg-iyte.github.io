@@ -21,7 +21,7 @@ This material is presented to ensure timely dissemination of scholarly and techn
 
 <!-- JOURNALS  -->
 
-<b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Journal Publications</font></b>
+### <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Journal Publications</font></b>
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
 <a href="publications/Tekeli_Bastanlar_TJEECS_AAM.pdf" target="blank">Elimination of Useless Images from Raw Camera-Trap Data</a><br>
@@ -84,7 +84,7 @@ Multi-view Structure-from-Motion for Hybrid Camera Scenarios</a>
 
 <!-- BOOK CHAPTERS  -->
 
-<b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Book Chapters</font></b>
+### <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Book Chapters</font></b>
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
  Introduction to Machine Learning<br>
  <i>Bastanlar, Y., Ozuysal, M.</i><br>
@@ -181,7 +181,8 @@ IEEE Conference on Signal Processing and Communications Applications (SIU) 2014,
 <!-- THESES  -->
 
 <br>
-<b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Theses</font></b>
+
+### <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Theses</font></b>
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
 <a href="publications/Hakan_MScThesis.pdf" target="blank">
