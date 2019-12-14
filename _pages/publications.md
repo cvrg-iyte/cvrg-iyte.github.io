@@ -5,17 +5,11 @@ excerpt: "CVRG - Publications"
 toc: true
 ---
 
-<html>
-<head>
-<title>Publications</title>
-<meta http-equiv="Content-Type" content="text/html; charset=">
-</head>
-
-<body bgcolor="#FFFFFF" text="#000000">
 <font face="Verdana, Arial, Helvetica, sans-serif" size="1">
 This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
 <br>
 </font>
+
 <br>
 
 
@@ -231,6 +225,3 @@ Ibrahim Cinaroglu, 2014, M.Sc. Thesis, Izmir Institute of Technology, Izmir, Tur
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-
-
-</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></body></html>
