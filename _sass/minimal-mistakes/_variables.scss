@@ -13,8 +13,8 @@ $paragraph-indent: false !default; // true, false (default)
 $indent-var: 1.3em !default;
 
 /* system typefaces */
-$georgia: Georgia, Times, serif !default;
-$helvetica: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+$serif: Georgia, Times, serif !default;
+$sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
@@ -41,7 +41,7 @@ $type-size-4: 0.500em !default; // ~8px
 $type-size-5: 0.25em !default; // ~4px
 $type-size-6: 0.25em !default; // ~4px
 $type-size-7: 0.25em !default; // ~4px
-$type-size-8: 0.25em !default; // ~4px
+$type-size-8: 0.25em !default; // ~3px
 
 /*
    Colors
