@@ -7,7 +7,7 @@ toc: true
 
 <html>
 <head>
-<title>Yalin Bastanlar - Datasets</title>
+<title>Datasets</title>
 <meta http-equiv="Content-Type" content="text/html; charset=">
 </head>
 
