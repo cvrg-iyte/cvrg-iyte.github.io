@@ -2,7 +2,7 @@
 permalink: /people/
 title: "People"
 excerpt: "CVRG - People"
-toc: true
+toc: false
 ---
 
 ### Principal Investigator

@@ -21,7 +21,7 @@ This material is presented to ensure timely dissemination of scholarly and techn
 
 <!-- JOURNALS  -->
 
-### <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Journal Publications</font></b>
+### Journal Publications
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
 <a href="publications/Tekeli_Bastanlar_TJEECS_AAM.pdf" target="blank">Elimination of Useless Images from Raw Camera-Trap Data</a><br>
@@ -84,7 +84,8 @@ Multi-view Structure-from-Motion for Hybrid Camera Scenarios</a>
 
 <!-- BOOK CHAPTERS  -->
 
-### <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Book Chapters</font></b>
+### Book Chapters 
+
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
  Introduction to Machine Learning<br>
  <i>Bastanlar, Y., Ozuysal, M.</i><br>
@@ -94,7 +95,7 @@ Multi-view Structure-from-Motion for Hybrid Camera Scenarios</a>
 
 <!-- INTERNATIONAL CONFERENCE  -->
 
-<b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">International Conference/Workshop Publications</font></b>
+### International Conference/Workshop Publications
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
 <a href="publications/Baris_Bastanlar_ITSC2017.pdf" target="blank">Classification and Tracking of Traffic Scene Objects with Hybrid Camera Systems</a> 
@@ -125,7 +126,8 @@ Multi-view Structure-from-Motion for Hybrid Camera Scenarios</a>
 <!-- NATIONAL CONFERENCE  -->
 
 <br>
-  <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">National Conference Publications</font></b>
+
+### National Conference Publications
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
  <a href="publications/siu2019_localization.pdf" target="blank">Image Based Localization Using Semantic Segmentation for Autonomous Driving (in Turkish)</a><br>
@@ -182,7 +184,7 @@ IEEE Conference on Signal Processing and Communications Applications (SIU) 2014,
 
 <br>
 
-### <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Theses</font></b>
+### Theses
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
 <a href="publications/Hakan_MScThesis.pdf" target="blank">
