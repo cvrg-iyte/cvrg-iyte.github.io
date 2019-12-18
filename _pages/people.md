@@ -6,9 +6,8 @@ toc: true
 ---
 
 ### Principal Investigator
-
 * Yalın Baştanlar [personal page](http://www.iyte.edu.tr/~yalinbastanlar)
-
+![](/_pages/yalin_bastanlar.png)
 
 ### Affiliated Faculty
 
@@ -20,11 +19,11 @@ toc: true
 ### Current Students
 
 * Ibrahim Çınaroğlu (Ph.D. student)
-
+![](/_pages/ibrahim_cinaroglu.png)
 * Semih Orhan (Ph.D. student)
-
+![](/_pages/semih_orhan.png)
 * Yağız Nalçakan (Ph.D. student)
-
+![](/_pages/yagiz_nalcakan.jpg)
 * Ünver Can Ünlü  (M.Sc. student)
 
 
