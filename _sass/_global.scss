@@ -165,7 +165,7 @@ ul.social-buttons {
         &:active,
         &:focus,
         &:hover {
-          color: $cvrg-gray;
+          color: $cvrg-black;
           background-color: $cvrg-blue;
         }
 
@@ -242,7 +242,7 @@ ul.social-buttons {
 }
 
 .breadcrumb {
-  background-color: $cvrg-orange;
+  background-color: $cvrg-gray;
   a {
     color: $primary;
     font-weight: normal;
