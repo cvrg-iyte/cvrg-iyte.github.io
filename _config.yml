@@ -5,14 +5,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Computer Vision Research Group (CVRG)
 description: > # this means to ignore newlines until "timezone:"
- Group targets to conduct research on the cutting-edge topics of computer vision related research areas such as:
-
-· Visual localization
-· Vision for autonomous driving and ADAS
-· Visual object detection/classification
-· 3D reconstruction from images
-· Omnidirectional (fisheye and catadioptric) cameras
-· Object tracking, Vision for robotics
+ Group targets to conduct research on the cutting-edge topics of computer vision related research areas.
 timezone: Turkey/Istanbul
 excerpt_separator: "<!-- excerpt -->"
 
