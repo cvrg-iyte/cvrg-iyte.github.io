@@ -14,13 +14,6 @@
           <a class="nav-link" href="{% link index.md %}">Home<!-- <span class="sr-only">(current)</span>--></a>
         </li>
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="{% link index.md %}" id="members" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Members</a>
-          <div class="dropdown-menu" aria-labelledby="members">
-            <a class="dropdown-item" href="{% link index.md %}">Current Members</a>
-            <a class="dropdown-item" href="{% link index.md %}">Alumni</a>
-          </div>
-        </li>
-        <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="research" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Research</a>
           <div class="dropdown-menu" aria-labelledby="research">
             {% for research in site.research %}
@@ -28,16 +21,20 @@
             {% endfor %}
           </div>
         </li>
-        {% if site.posts.size > 0 %}
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="{% link index.md %}" id="members" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Members</a>
+          <div class="dropdown-menu" aria-labelledby="members">
+            <a class="dropdown-item" href="{% link index.md %}">Current Members</a>
+            <a class="dropdown-item" href="{% link index.md %}">Alumni</a>
+          </div>
+        </li>
         <li class="nav-item">
           <a class="nav-link" href="{% link blog/index.html %}">Publications</a>
         </li>
-        {% endif %}
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="{% link contact.md %}" id="about" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About</a>
           <div class="dropdown-menu" aria-labelledby="about">
-            <a class="dropdown-item" href="{% link contact.md %}">History</a>
-            <a class="dropdown-item" href="{% link contact.md %}">Operations</a>
+            <a class="dropdown-item" href="{% link contact.md %}">Events</a>
             <a class="dropdown-item" href="{% link contact.md %}">Contact</a>
           </div>
         </li>

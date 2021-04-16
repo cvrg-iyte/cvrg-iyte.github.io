@@ -9,7 +9,7 @@ cover-images:
         ## Group Members
 
         LOrem ipsum ...
-  - image-link: /assets/img/groups/cvrg_logo.png
+  - image-link: /assets/img/visual-place-recognition.png
     image-position: center top
     url: http://cvrg.iyte.edu.tr/
     caption:
@@ -18,7 +18,7 @@ cover-images:
         ## Panoramic Image Based Localization Improved with Spherical Representations and Semantic Descriptors
 
         2021-...
-  - image-link: /assets/img/groups/cvrg_logo.png
+  - image-link: /assets/img/maneuver-prediction.png
     image-position: center 83%
     url: http://cvrg.iyte.edu.tr/
     caption:
