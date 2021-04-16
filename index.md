@@ -2,7 +2,7 @@
 layout: home
 cover-images:
   - image-link: /assets/img/groups/cvrg_logo.png
-    image-position: center 80%
+    image-position: center top
     caption:
       position: center
       text: >
@@ -13,13 +13,13 @@ cover-images:
     image-position: center top
     url: http://cvrg.iyte.edu.tr/
     caption:
-      position: left
+      position: center
       text: >
         ## Panoramic Image Based Localization Improved with Spherical Representations and Semantic Descriptors
 
         2021-...
   - image-link: /assets/img/maneuver-prediction.png
-    image-position: center 83%
+    image-position: center top
     url: http://cvrg.iyte.edu.tr/
     caption:
       position: center

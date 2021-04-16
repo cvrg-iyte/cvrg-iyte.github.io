@@ -4,5 +4,4 @@
 *  active.md, alumni.md, operations.md dosyaları eski dosyalar, bunlar kaldırılacak. Bize uyanları uyarlayarak tutabiliriz.
 *  History kısmına CVRG'nin kurulmasından bu yana katıldığımız konferanslar, etkinlikler, projeler konulabilir. Güzel duruyor. 
 *  assets/img klasörü altında dosyalar halinde resimler eklenecek.
-*  _includes klasörü altında footer.html düzenlenmeli.
 *  active.md altına people eklenecek, alumni.md altına da eski üyeler eklenecek.
