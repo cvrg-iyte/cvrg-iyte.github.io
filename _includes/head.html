@@ -11,7 +11,7 @@
   <meta property="og:site_name" content="{{ site.title }}"/>
   <meta property="og:image" content="{{ page.cover-images[0].image-link | default: page.cover-images[0] | default: front-page.cover-images[0].image-link }}"/>
 
-  <!-- twitter card tags additive with the og: tags 
+  <!-- twitter card tags additive with the og: tags -->
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@{{ site.twitter_username }}" />
   <meta name="twitter:domain" content="{{ site.url }}"/>
@@ -27,9 +27,9 @@
   <meta property="og:title" content="{{ site.title }}"/>
   <meta name="twitter:title" content="{{ site.title }}"/>
   {%- endif -%}
-  -->
+  
 
-  <!-- Description metadata is something else... 
+  <!-- Description metadata is something else... -->
   {% if page.excerpt and page.excerpt != page.content %}
   <meta property="og:description" content="{{ page.excerpt | strip_html | normalize_whitespace | escape }}"/>
   <meta name="twitter:description" content="{{ page.excerpt | strip_html | normalize_whitespace | escape }}"/>
@@ -37,7 +37,7 @@
   <meta property="og:description" content="{{ site.description | strip_html | normalize_whitespace | escape }}"/>
   <meta name="twitter:description" content="{{ site.description | strip_html | normalize_whitespace | escape }}"/>
   {% endif %}
-  -->
+  
 
   <!-- Atom feed information -->
   {% feed_meta %}
