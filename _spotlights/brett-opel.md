@@ -1,6 +1,6 @@
 ---
 ptitle: Assistant Proffesor
-cover-image: /assets/img/people/opel.jpg
+cover-image: /assets/img/groups/cvrg_logo.png
 email_address: bdopel@mtu.edu
 facebook_username: brett.opel
 linkedin_id: brett-opel

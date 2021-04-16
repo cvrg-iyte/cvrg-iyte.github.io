@@ -1,7 +1,7 @@
 ---
 layout: home
 cover-images:
-  - image-link: /assets/img/groups/DSC_5778.JPG
+  - image-link: /assets/img/groups/cvrg_logo.png
     image-position: center 80%
     caption:
       position: center
@@ -9,7 +9,7 @@ cover-images:
         ## Group Members
 
         LOrem ipsum ...
-  - image-link: /assets/img/people/bennett.JPG
+  - image-link: /assets/img/groups/cvrg_logo.png
     image-position: center top
     url: http://cvrg.iyte.edu.tr/
     caption:
@@ -18,7 +18,7 @@ cover-images:
         ## Panoramic Image Based Localization Improved with Spherical Representations and Semantic Descriptors
 
         2021-...
-  - image-link: /assets/img/groups/DSC_5795.JPG
+  - image-link: /assets/img/groups/cvrg_logo.png
     image-position: center 83%
     url: http://cvrg.iyte.edu.tr/
     caption:

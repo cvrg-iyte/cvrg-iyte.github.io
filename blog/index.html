@@ -3,14 +3,6 @@ layout: page
 title: Group News
 excerpt: Group News - Recent updates about Computer Vision Research Group at Izmir Institute of Technology.
 ---
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.11';
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
 
 <div class="row">
   <div class="col-sm-12 col-lg-9 blog-main">
@@ -99,19 +91,5 @@ excerpt: Group News - Recent updates about Computer Vision Research Group at Izm
     </div>
     {% endif %}
 
-    <div class="sidebar-module d-none d-lg-block">
-      <div class="fb-page"
-           data-href="https://www.facebook.com/{{ site.facebook_username }}"
-           data-tabs="timeline"
-           data-small-header="true"
-           data-adapt-container-width="true"
-           data-hide-cover="false"
-           data-show-facepile="true"
-           data-width="500px">
-        <blockquote cite="https://www.facebook.com/{{ site.facebook_username }}" class="fb-xfbml-parse-ignore">
-          <a href="https://www.facebook.com/{{ site.facebook_username }}">{{ site.title }} on Facebook</a>
-        </blockquote>
-      </div>
-    </div>
   </aside><!-- /.blog-sidebar -->
 </div>

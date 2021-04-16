@@ -11,10 +11,10 @@ excerpt_separator: "<!-- excerpt -->"
 
 # Social Media
 email:  cvrg@iyte.edu.tr
-twitter_username: 
-instagram_username: 
+#twitter_username: 
+#instagram_username: 
 github_username: cvrg-iyte
-linkedin_id: 
+#linkedin_id: 
 
 # Build settings
 markdown: kramdown
@@ -68,3 +68,5 @@ exclude:
   - .travis.yml
   - .gitignore
   - LICENSE
+  - todo.md
+  - old_template_files
