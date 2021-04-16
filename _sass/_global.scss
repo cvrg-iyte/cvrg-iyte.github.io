@@ -32,9 +32,9 @@ a {
   color: inherit;
   font-weight: bold;
   text-decoration: underline;
-  text-decoration-color: $triangle-yellow;
+  text-decoration-color: $cvrg-orange;
   &:hover {
-    color: darken($triangle-yellow, 10%);
+    color: darken($cvrg-orange, 10%);
   }
 }
 
@@ -128,10 +128,10 @@ body {
 
 ol.carousel-indicators {
   li {
-    background-color: $triangle-gray;
+    background-color: $cvrg-gray;
 
     &.active {
-      background-color: $triangle-old-rose;
+      background-color: $cvrg-blue;
     }
   }
 }
@@ -158,15 +158,15 @@ ul.social-buttons {
         -webkit-transition: all 0.3s;
         -moz-transition: all 0.3s;
         transition: all 0.3s;
-        color: $triangle-old-rose;
+        color: $cvrg-blue;
         border-radius: 100%;
         outline: none;
         background-color: white;
         &:active,
         &:focus,
         &:hover {
-          color: $triangle-gray;
-          background-color: $triangle-old-rose;
+          color: $cvrg-gray;
+          background-color: $cvrg-blue;
         }
 
         &.fa-twitter, &.fa-twitter-square {
@@ -242,7 +242,7 @@ ul.social-buttons {
 }
 
 .breadcrumb {
-  background-color: $triangle-light-gray;
+  background-color: $cvrg-gray;
   a {
     color: $primary;
     font-weight: normal;
@@ -279,7 +279,7 @@ ul.social-buttons {
     color: inherit;
     text-decoration: none;
     &:hover {
-      color: darken($triangle-yellow, 10%);
+      color: darken($cvrg-orange, 10%);
     }
   }
 }

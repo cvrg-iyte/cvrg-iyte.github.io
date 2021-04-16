@@ -56,17 +56,17 @@
       margin-left: 0;
       text-align: center;
       color: white;
-      border: 7px solid $triangle-light-gray;
+      border: 7px solid $cvrg-gray;
       border-radius: 100%;
-      background-color: $triangle-old-rose;
+      background-color: $cvrg-blue;
       -webkit-transition: all 0.3s;
       -moz-transition: all 0.3s;
       transition: all 0.3s;
       &:active,
       &:focus,
       &:hover {
-        color: $triangle-old-rose;
-        background-color: $triangle-light-gray;
+        color: $cvrg-blue;
+        background-color: $cvrg-gray;
       }
 
       h4 {
