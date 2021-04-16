@@ -1,5 +1,5 @@
 
-![](cvrg_logo.png)
+![](assets/img/cvrg_logo.png)
 
 ### Computer Vision Research Group
 

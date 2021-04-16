@@ -1,0 +1,348 @@
+// Global styling for this template
+html {
+  position: relative;
+  min-height: 100%;
+  min-width: 100%;
+}
+
+body {
+  padding-top: 54px;
+  padding-bottom: 150px;
+  overflow-x: hidden;
+  @include body-font;
+}
+
+@media (min-width: 768px) {
+  body {
+    padding-bottom: 100px;
+  }
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 98px;
+  }
+}
+
+p {
+  line-height: 1.75;
+}
+
+a {
+  color: inherit;
+  font-weight: bold;
+  text-decoration: underline;
+  text-decoration-color: $triangle-yellow;
+  &:hover {
+    color: darken($triangle-yellow, 10%);
+  }
+}
+
+.text-primary {
+  color: $primary !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+  @include heading-font;
+}
+
+section {
+  padding: 65px 0;
+  h2.section-heading {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+  }
+  h3.section-subheading {
+    font-size: 16px;
+    font-weight: 400;
+    font-style: italic;
+    margin-bottom: 75px;
+    text-transform: none;
+    @include heading-font;
+  }
+}
+@media(min-width:768px) {
+  section {
+    padding: 85px 0;
+  }
+}
+
+// Button Styles
+.btn {
+  @include heading-font;
+  font-weight: 700;
+  font-weight: none;
+  text-decoration: none;
+}
+
+.btn-xl {
+  font-size: 18px;
+  padding: 20px 40px;
+}
+
+.btn-primary {
+  background-color: $primary;
+  border-color: $primary;
+  &:active,
+  &:focus,
+  &:hover {
+    background-color: darken($primary, 7.5%) !important;
+    border-color: darken($primary, 7.5%) !important;
+    color: white;
+  }
+  &:active,
+  &:focus {
+    box-shadow: 0 0 0 0.2rem rgba(254, 209, 55,.5) !important;
+  }
+}
+
+// Highlight color customization
+::-moz-selection {
+  background: $primary;
+  text-shadow: none;
+}
+
+::selection {
+  background: $primary;
+  text-shadow: none;
+}
+
+img::selection {
+  background: transparent;
+}
+
+img::-moz-selection {
+  background: transparent;
+}
+
+body {
+  -webkit-tap-highlight-color: $primary;
+}
+
+ol.carousel-indicators {
+  li {
+    background-color: $triangle-gray;
+
+    &.active {
+      background-color: $triangle-old-rose;
+    }
+  }
+}
+
+ul.social-buttons {
+  margin-bottom: 0;
+  .list-inline-item {
+    display: inline-block;
+
+    &:not(:last-child) {
+      margin-right: 5px;
+    }
+  }
+
+  li {
+    a {
+      color: transparent;
+      i {
+        // font-size: 20px;
+        line-height: 30px;
+        display: block;
+        width: 30px;
+        height: 30px;
+        -webkit-transition: all 0.3s;
+        -moz-transition: all 0.3s;
+        transition: all 0.3s;
+        color: $triangle-old-rose;
+        border-radius: 100%;
+        outline: none;
+        background-color: white;
+        &:active,
+        &:focus,
+        &:hover {
+          color: $triangle-gray;
+          background-color: $triangle-old-rose;
+        }
+
+        &.fa-twitter, &.fa-twitter-square {
+          color: #1da1f2;
+          &:active,
+          &:focus,
+          &:hover {
+            color: #f5f8fa;
+            background-color: #1da1f2;
+          }
+        }
+
+        &.fa-linkedin, &.fa-linkedin-square {
+          color: #0077b5;
+          &:active,
+          &:focus,
+          &:hover {
+            color: white;
+            background-color: #0077b5;
+          }
+        }
+
+        &.fa-facebook, &.fa-facebook-square, &.fa-facebook-official {
+          color: #3b5998;
+          &:active,
+          &:focus,
+          &:hover {
+            color: white;
+            background-color: #3b5998;
+          }
+        }
+
+        &.fa-github, &.fa-github-square, &.fa-github-alt {
+          color: #333;
+          &:active,
+          &:focus,
+          &:hover {
+            color: #fafafa;
+            background-color: #333;
+          }
+        }
+
+        &.fa-instagram {
+          color: #405de6;
+          &:active,
+          &:focus,
+          &:hover {
+            color: white;
+            background-color: #405de6;
+          }
+        }
+
+        &.fa-twitch {
+          color: #6441a5;
+          &:active,
+          &:focus,
+          &:hover {
+            color: #f1f1f1;
+            background-color: #6441a5;
+          }
+        }
+      }
+    }
+  }
+}
+
+.bg-image-full {
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.breadcrumb {
+  background-color: $triangle-light-gray;
+  a {
+    color: $primary;
+    font-weight: normal;
+    text-decoration: none;
+    &:hover {
+      color: darken($primary, 10%);
+    }
+  }
+}
+
+.card.contributors {
+  max-height: 18rem;
+
+  .card-body {
+    padding: 0;
+    overflow-y: auto;
+  }
+
+  .media {
+    img {
+      max-width: 64px;
+      max-height: 64px;
+    }
+  }
+  @media (min-width: 768px) {
+    &.float-left {
+      margin-right: 2em;
+    }
+    &.float-right {
+      margin-left: 2em;
+    }
+  }
+  a {
+    color: inherit;
+    text-decoration: none;
+    &:hover {
+      color: darken($triangle-yellow, 10%);
+    }
+  }
+}
+
+.featured-content {
+  text-align: left;
+
+  div {
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 0px;
+    }
+
+    p {
+
+    }
+  }
+
+  &:first-of-type {
+    margin-top: 3em;
+  }
+}
+
+.image-section {
+  margin-top: 1.5em;
+  text-align: center;
+  color: $white;
+
+  div {
+    h1, h2, h3, h4, h5, h6 {
+      text-shadow: 0px 0px 10px $black;
+      margin: 0px;
+    }
+    p, a {
+      margin: 0px;
+      text-shadow: 0px 0px 8px $black;
+    }
+    .btn {
+      margin: 10px 10px;
+    }
+  }
+
+  .featured-content ~ & {
+    margin-top: 0px;
+  }
+}
+
+.content-spinner {
+  div {
+    align-items: center;
+    p {
+      img {
+        margin: auto;
+        max-width: 20vw;
+        max-height: 20vh;
+      }
+    }
+  }
+}
+
+.badge-primary {
+  background-color: $primary
+}
+
+.badge-secondary {
+  background-color: $secondary
+}

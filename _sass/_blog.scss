@@ -1,0 +1,153 @@
+
+/*
+ * Blog name and description
+ */
+
+.blog-header {
+  padding-bottom: 1.25rem;
+  margin-bottom: 2rem;
+  border-bottom: .05rem solid #eee;
+}
+.blog-title {
+  margin-bottom: 0;
+  font-size: 2rem;
+  font-weight: 400;
+}
+.blog-description {
+  font-size: 1.1rem;
+  color: #999;
+}
+
+@media (min-width: 40em) {
+  .blog-title {
+    font-size: 3.5rem;
+  }
+}
+
+.blog-sidebar {
+  width: 100%;
+}
+
+/*
+ * Pagination
+ */
+
+ul.blog-pagination {
+  margin-bottom: 4rem;
+
+  .page-link {
+    color: $primary;
+  }
+  li.page-item {
+    &.active {
+      .page-link {
+        color: white;
+        background-color: $primary;
+        border-color: $primary;
+      }
+    }
+    &.disabled {
+      .page-link {
+        color: $secondary;
+      }
+    }
+  }
+}
+
+/*
+ * Blog posts
+ */
+ #blog-post-image-carousel.carousel {
+   .carousel-inner {
+     .carousel-item {
+       img{
+         width: 100%;
+         // object-position: top;
+         object-fit: cover;
+         max-height: 35em;
+       }
+     }
+   }
+ }
+.blog-post {
+  margin-bottom: 4rem;
+}
+.blog-post-title {
+  margin-bottom: .25rem;
+  font-size: 2.5rem;
+}
+.blog-post-meta {
+  margin-bottom: 1.25rem;
+  color: #999;
+}
+.blog-post-content {
+  figure {
+    // margin-top: 15px;
+    img {
+      // height: 300px;
+      max-width: 350px;
+    }
+    figcaption {
+      max-width: 350px;
+    }
+    &.float-left {
+      margin-right: 2em;
+    }
+    &.float-right {
+      margin-left: 2em;
+    }
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    margin: 15px 0px;
+  }
+  h1 {
+    font-size: 2.25rem;
+  }
+
+  h2 {
+    font-size: 2rem;
+  }
+
+  h3 {
+    font-size: 1.75rem;
+  }
+
+  h4 {
+    font-size: 1.5rem;
+  }
+
+  h5 {
+    font-size: 1.25rem;
+  }
+
+  h6 {
+    font-size: 1rem;
+  }
+
+  blockquote {
+    @include serif-font;
+    margin: 1em 2.5em 2em;
+    font-style: italic;
+  }
+
+  p {
+    margin: 10px 0px;
+  }
+}
+
+/*
+ * Blog Previews
+ */
+
+.blog-post-preview {
+  img.card-img-top {
+    width: 100%;
+    object-fit: cover;
+    object-position: top;
+    max-height: 300px;
+  }
+  div.card-footer {
+    font-size: 0.75rem;
+  }
+}

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  {% include head.html %}
+
+  <body id="page-top">
+    {% include navbar.html %}
+    <main role="main" class="container mt-3">
+      <div class="blog-post">
+        <h1 class="blog-post-title my-4">{{ page.title }}</h1>
+        <div class="row">
+          <div class="col">
+          {% if page.author %}
+            <p class="lead"><i class="fa fa-user-circle-o" aria-hidden="true"></i> Writen by Br. {{ page.author }}{% if page.author-ptitle %} <em>-mtu{{ page.author-ptitle }}</em>{% endif %}</p>
+          {% endif %}
+          </div>
+          <div class="col">
+            <p class="blog-post-meta text-right"><i class="fa fa-calendar" aria-hidden="true"></i> Posted on {{ page.date | date_to_long_string }}</p>
+          </div>
+        </div>
+        <nav aria-label="breadcrumb" role="navigation">
+          <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="{% link index.md %}">Home</a></li>
+            <li class="breadcrumb-item"><a href="{% link blog/index.html %}">Chapter News</a></li>
+            <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
+          </ol>
+        </nav>
+        {% if page.cover-images %}
+        <div id="blog-post-image-carousel" class="carousel slide mb-4" data-ride="carousel" data-interval="7500">
+          {% if page.cover-images.size > 1 %}
+          <ol class="carousel-indicators">
+            {% for i in page.cover-images %}
+            <li data-target="#blog-post-image-carousel" data-slide-to="{{ forloop.index0 }}" {% if forloop.first %}class="active"{% endif %}></li>
+            {% endfor %}
+          </ol>
+          {% endif %}
+
+          <div class="carousel-inner">
+            {% for i in page.cover-images %}
+            <div class="carousel-item {% if forloop.first %}active{% endif %}">
+              <img src="{{i}}" class="img-fluid rounded" alt="cover image {{ forloop.index }}"/>
+            </div>
+            {% endfor %}
+          </div>
+
+          {% if page.cover-images.size > 1 %}
+          <a class="carousel-control-prev" href="#blog-post-image-carousel" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+          </a>
+
+          <a class="carousel-control-next" href="#blog-post-image-carousel" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>
+          {% endif %}
+        </div>
+        {% endif %}
+
+        {% assign visible-tags = "" %}
+        {% for t in site.tags %}
+        {% if page.tags contains t.title %}
+        {% capture temp %}<a href="{{ t.url }}"><span class="badge badge-pill badge-primary">{{ t.title }}</span></a> {% endcapture %}
+        {% assign visible-tags = visible-tags | append: temp %}
+        {% endif %}
+        {% endfor %}
+        {% if visible-tags != blank %}
+        <div class="blog-post-tags mb-3">
+          <i class="fa fa-tags" aria-hidden="true"></i> Tags:
+          {{ visible-tags }}
+        </div>
+        {% endif %}
+
+        {% if page.excerpt == page.content %}
+        <div class="blog-post-content">
+          {{ page.content }}
+        </div>
+        {% else %}
+        <div class="blog-post-excerpt lead">
+          {{ page.excerpt }}
+        </div>
+        <div class="blog-post-content">
+          {{ page.content | remove_first: page.excerpt }}
+        </div>
+        {% endif %}
+      </div>
+    </main>
+    {% include footer.html %}
+    {% include scripts.html %}
+  </body>
+</html>

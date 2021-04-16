@@ -1,0 +1,77 @@
+// Styling for the masthead
+header.masthead {
+  text-align: center;
+  color: white;
+
+  img {
+    max-height: 40vw;
+    width: 100%;
+    object-fit: cover;
+  }
+
+  .carousel {
+    .carousel-inner {
+      .carousel-caption {
+        // background-color: rgba($gray-900, 0.5);
+        // width: fit-content;
+
+        h1, h2, h3, h4, h5, h6 {
+          color: $white;
+          text-shadow: 0px 0px 12px $black;
+        }
+        p {
+          color: $white;
+          text-shadow: 0px 0px 10px $black;
+        }
+      }
+    }
+  }
+}
+@media(min-width:768px) {
+  header.masthead {
+    img {
+    }
+  }
+}
+
+
+@media(min-width:576px) {
+  header.masthead {
+    p {
+      font-size: 1.25rem;
+    }
+  }
+}
+
+@media(max-width:768px) {
+  header.masthead {
+    .carousel {
+      .carousel-inner {
+        .carousel-caption {
+
+          h1 {
+            font-size: 4.25vw;
+          }
+          h2 {
+            font-size: 4vw;
+          }
+          h3 {
+            font-size: 3.75vw;
+          }
+          h4 {
+            font-size: 3.5vw;
+          }
+          h5 {
+            font-size: 3.25vw;
+          }
+          h6 {
+            font-size: 3vw;
+          }
+          p {
+            font-size: 2.5vw;
+          }
+        }
+      }
+    }
+  }
+}

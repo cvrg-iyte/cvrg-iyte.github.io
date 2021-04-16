@@ -1,0 +1,117 @@
+---
+layout: page
+title: Group News
+excerpt: Group News - Recent updates about Computer Vision Research Group at Izmir Institute of Technology.
+---
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.11';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="row">
+  <div class="col-sm-12 col-lg-9 blog-main">
+    {% for post in paginator.posts %}
+    {% include blog-post-preview.html post=post %}
+    {% endfor %}
+
+    {% if paginator.total_pages > 1 %}
+    <nav aria-label="paginator">
+      <ul class="pagination blog-pagination justify-content-center">
+        {% if paginator.previous_page %}
+        <li class="page-item">
+          <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="fa fa-angle-double-left" aria-hidden="true"></i>  Previous</a>
+        </li>
+        {% else %}
+        <li class="page-item disabled">
+          <a class="page-link"><i class="fa fa-angle-double-left" aria-hidden="true"></i>  Previous</a>
+        </li>
+        {% endif %}
+
+        {% for page in (1..paginator.total_pages) %}
+          {% if page == paginator.page %}
+            <li class="page-item active"><a class="page-link">{{ page }}</a></li>
+          {% elsif page == 1 %}
+            <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
+          {% else %}
+            <li class="page-item"><a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+          {% endif %}
+        {% endfor %}
+
+        {% if paginator.next_page %}
+        <li class="page-item">
+          <a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next  <i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
+        </li>
+        {% else %}
+        <li class="page-item disabled">
+          <a class="page-link">Next  <i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
+        </li>
+        {% endif %}
+      </ul>
+    </nav>
+    {% endif %}
+  </div><!-- /.blog-main -->
+
+  <aside class="col-sm-3 ml-sm-auto blog-sidebar d-print-none">
+    <div class="card sidebar-module d-none d-lg-block">
+      <h5 class="card-header"><i class="fa fa-tags"></i> Tags</h5>
+      <div class="card-body">
+        <div class="row">
+          <div class="col-6">
+            {%- for t in site.tags -%}
+            {%- assign mod = forloop.index0 | modulo: 2 -%}
+            {%- if mod == 0 -%}
+            <p><a class="tag-link" href="{{ t.url | relative_url }}">{{ t.title }}</a></p>
+            {%- endif -%}
+            {%- endfor -%}
+          </div>
+          <div class="col-6">
+            {%- for t in site.tags -%}
+            {%- assign mod = forloop.index0 | modulo: 2 -%}
+            {%- if mod == 1 -%}
+            <p><a class="tag-link" href="{{ t.url | relative_url }}">{{ t.title }}</a></p>
+            {%- endif -%}
+            {%- endfor -%}
+          </div>
+        </div>
+      </div>
+    </div>
+
+    {% if site.spotlights.size > 0 %}
+    <div class="card sidebar-module my-3 member-spotlight d-none d-lg-block">
+      <div id="spotlights" class="carousel slide" data-ride="carousel" data-interval="10000" data-pause="false">
+        <div class="carousel-inner">
+          {% for s in site.spotlights %}
+          <div class="carousel-item {% if forloop.first %}active{% endif %}">
+            <img class="card-img-top mb-2" src="{{ s.cover-image }}" alt="spotlight image of {{ s.title }}">
+            <div class="card-body">
+              <h4 class="card-title">{{ s.title }}</h4>
+              <h6 class="card-subtitle mb-2 text-muted">{{ s.init-ptitle }}</h6>
+              <p class="card-text">{{ s.content | truncatewords: 250 }}</p>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+    {% endif %}
+
+    <div class="sidebar-module d-none d-lg-block">
+      <div class="fb-page"
+           data-href="https://www.facebook.com/{{ site.facebook_username }}"
+           data-tabs="timeline"
+           data-small-header="true"
+           data-adapt-container-width="true"
+           data-hide-cover="false"
+           data-show-facepile="true"
+           data-width="500px">
+        <blockquote cite="https://www.facebook.com/{{ site.facebook_username }}" class="fb-xfbml-parse-ignore">
+          <a href="https://www.facebook.com/{{ site.facebook_username }}">{{ site.title }} on Facebook</a>
+        </blockquote>
+      </div>
+    </div>
+  </aside><!-- /.blog-sidebar -->
+</div>

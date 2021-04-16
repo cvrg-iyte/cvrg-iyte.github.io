@@ -1,0 +1,12 @@
+// Mixins
+
+// Font Mixins
+@mixin serif-font {
+  font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+@mixin body-font {
+  font-family: 'Poppins', Helvetica, Arial, sans-serif;
+}
+@mixin heading-font {
+  font-family: 'Libre Baskerville', Helvetica, Arial, serif;
+}
