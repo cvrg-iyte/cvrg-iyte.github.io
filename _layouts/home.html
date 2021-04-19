@@ -6,6 +6,10 @@
     {% include navbar.html %}
     {% include carousel-header.html %}
 
+    <main role="main" class="container mt-3">
+      {{ content }}
+    </main>
+
     {% if site.posts.size >= 3 %}
     <section id="news">
       <div class="container">
@@ -47,17 +51,13 @@
     </section>
     {% endif %}
 
-    <main role="main" class="container mt-3">
-      {{ content }}
-    </main>
-
     {% if site.spotlights.size >= 3 %}
     <section id="spotlights">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Recent Publications</h2>
-            <h3 class="section-subheading text-muted">Recent publications' details.</h3>
+            <h2 class="section-heading text-uppercase">Members</h2>
+            <h3 class="section-subheading text-muted">Current group members</h3>
           </div>
         </div>
         <div class="container">
