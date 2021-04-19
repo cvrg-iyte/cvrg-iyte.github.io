@@ -1,6 +1,7 @@
 ---
 author: CVRG
 author-ptitle: 
+title: Multi-view Structure-from-Motion for Hybrid Camera Scenarios
 cover-images:
   - /assets/img/posts/cvrg_logo.png
 ---

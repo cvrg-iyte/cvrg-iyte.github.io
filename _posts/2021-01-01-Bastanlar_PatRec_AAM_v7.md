@@ -1,6 +1,7 @@
 ---
 author: CVRG
-author-ptitle: 
+author-ptitle:
+title: A simplified two-view geometry based external calibration method for omnidirectional and PTZ camera pairs 
 cover-images:
   - /assets/img/posts/cvrg_logo.png
 ---

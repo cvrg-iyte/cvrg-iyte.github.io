@@ -1,6 +1,7 @@
 ---
 author: CVRG
 author-ptitle: 
+title: National Conference Publications
 cover-images:
   - /assets/img/posts/cvrg_logo.png
 ---

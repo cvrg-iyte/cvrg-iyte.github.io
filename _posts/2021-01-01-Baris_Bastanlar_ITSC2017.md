@@ -1,6 +1,7 @@
 ---
 author: CVRG
 author-ptitle: 
+title: Classification and Tracking of Traffic Scene Objects with Hybrid Camera Systems
 cover-images:
   - /assets/img/posts/cvrg_logo.png
 ---

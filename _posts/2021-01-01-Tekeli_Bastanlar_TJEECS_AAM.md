@@ -1,6 +1,7 @@
 ---
 author: CVRG
 author-ptitle: 
+title: Elimination of Useless Images from Raw Camera-Trap Data
 cover-images:
   - /assets/img/posts/cvrg_logo.png
 ---

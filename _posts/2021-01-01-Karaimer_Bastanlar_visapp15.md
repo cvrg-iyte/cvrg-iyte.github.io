@@ -1,6 +1,7 @@
 ---
 author: CVRG
-author-ptitle: 
+author-ptitle:
+title: Detection and Classification of Vehicles from Omnidirectional Videos using Temporal Average of Silhouettes 
 cover-images:
   - /assets/img/posts/cvrg_logo.png
 ---

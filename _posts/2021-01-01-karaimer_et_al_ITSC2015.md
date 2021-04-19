@@ -1,6 +1,7 @@
 ---
 author: CVRG
 author-ptitle: 
+title: Combining shape-based and gradient-based classifiers for vehicle classification
 cover-images:
   - /assets/img/posts/cvrg_logo.png
 ---

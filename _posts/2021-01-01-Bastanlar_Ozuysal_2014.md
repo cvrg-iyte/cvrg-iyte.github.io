@@ -1,6 +1,7 @@
 ---
 author: CVRG
 author-ptitle: 
+title: Introduction to Machine Learning 
 cover-images:
   - /assets/img/posts/cvrg_logo.png
 ---

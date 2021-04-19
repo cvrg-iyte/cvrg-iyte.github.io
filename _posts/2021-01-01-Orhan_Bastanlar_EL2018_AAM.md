@@ -1,6 +1,7 @@
 ---
 author: CVRG
 author-ptitle: 
+title: Training convolutional neural networks with image patches for object localisation
 cover-images:
   - /assets/img/posts/cvrg_logo.png
 ---

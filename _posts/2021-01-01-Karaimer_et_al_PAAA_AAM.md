@@ -1,6 +1,7 @@
 ---
 author: CVRG
 author-ptitle: 
+title: Detection and Classification of Vehicles from Omnidirectional Videos Using Multiple Silhouettes
 cover-images:
   - /assets/img/posts/cvrg_logo.png
 ---

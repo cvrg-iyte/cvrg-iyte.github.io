@@ -1,6 +1,7 @@
 ---
 author: CVRG
 author-ptitle: 
+title: A Direct Approach for Object Detection with Catadioptric Omnidirectional Cameras
 cover-images:
   - /assets/img/posts/cvrg_logo.png
 ---
