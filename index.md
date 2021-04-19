@@ -9,18 +9,18 @@ cover-images:
         ## Group Members
 
         LOrem ipsum ...
-  - image-link: /assets/img/visual-place-recognition.png
+  - image-link: /assets/img/research/visual-place-recognition.png
     image-position: center top
-    url: http://cvrg.iyte.edu.tr/
+    url: https://cvrg-iyte.github.io/panaromic-image-localization
     caption:
       position: center
       text: >
         ## Panoramic Image Based Localization Improved with Spherical Representations and Semantic Descriptors
 
         2021-...
-  - image-link: /assets/img/maneuver-prediction.png
+  - image-link: /assets/img/research/maneuver-prediction.png
     image-position: center top
-    url: http://cvrg.iyte.edu.tr/
+    url: https://cvrg-iyte.github.io/maneuver-prediction
     caption:
       position: center
       text: >
