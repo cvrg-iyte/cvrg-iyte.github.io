@@ -4,7 +4,7 @@ title: Current members
 permalink: /members/current-members
 ---
 
-# Members
+## Members
 
 Lorem ipsum ...
 
@@ -23,7 +23,7 @@ Lorem ipsum ...
   content="--"%}
 
 {% include spotlight-inline.html
-  name="Yağız Nalçakan"
+  name="Yagiz Nalcakan"
   ptitle: "PhD Student"
   cover-image: "/assets/img/people/yagiz_nalcakan.jpg"
   email_address: "yagiznalcakan@iyte.edu.tr"
