@@ -9,24 +9,24 @@ permalink: /members/current-members
 Lorem ipsum ...
 
 {% include spotlight-inline.html
-  name="Yalın Baştanlar"
-  ptitle: Associate Professor (Principal Investigator)
-  cover-image: /assets/img/people/yalin-bastanlar.jpg
-  email_address: yalinbastanlar@iyte.edu.tr
+  name="Yalin Bastanlar"
+  ptitle: "Associate Professor (Principal Investigator)"
+  cover-image: "/assets/img/people/yalin-bastanlar.jpg"
+  email_address: "yalinbastanlar@iyte.edu.tr"
   content="--"%}
 
 {% include spotlight-inline.html
   name="Semih Orhan"
-  ptitle: PhD Student
-  cover-image: /assets/img/people/semih_orhan.png
-  email_address: semihorhan@iyte.edu.tr
+  ptitle: "PhD Student"
+  cover-image: "/assets/img/people/semih_orhan.png"
+  email_address: "semihorhan@iyte.edu.tr"
   content="--"%}
 
 {% include spotlight-inline.html
   name="Yağız Nalçakan"
-  ptitle: PhD Student
-  cover-image: /assets/img/people/yagiz_nalcakan.jpg
-  email_address: yagiznalcakan@iyte.edu.tr
+  ptitle: "PhD Student"
+  cover-image: "/assets/img/people/yagiz_nalcakan.jpg"
+  email_address: "yagiznalcakan@iyte.edu.tr"
   content="--"%}
 
 
