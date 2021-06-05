@@ -4,7 +4,7 @@ cover-image: /assets/img/people/semih_orhan.png
 email_address: semihorhan@iyte.edu.tr
 ---
 
-Semih Orhan is currently a Ph.D. student and working on deep neural networks with Assoc. Prof. Dr. Yalın Baştanlar.
+Semih Orhan is a Ph.D. student and working on deep neural networks with Assoc. Prof. Dr. Yalın Baştanlar.
 
 Research interests:
 - Machine Learning
