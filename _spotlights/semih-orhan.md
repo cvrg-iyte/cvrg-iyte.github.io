@@ -11,8 +11,6 @@ Research interests:
 - Computer Vision
 
 
-**B.Sc. :** Electrical and Electronics Engineering, Karadeniz Technical University (2013)
+**Ph.D. :** Computer Engineering, Izmir Institute of Technology (ongoing)
 
 **M.Sc. :** Computer Engineering, Izmir Institute of Technology (2017)
-
-**Ph.D. :** Computer Engineering, Izmir Institute of Technology (ongoing)
