@@ -10,5 +10,3 @@ Research interests:
 
 
 **Ph.D. :** Computer Engineering, Izmir Institute of Technology (ongoing)
-
-**M.Sc. :** Computer Engineering, Izmir Institute of Technology (2017)
