@@ -33,14 +33,3 @@ Group targets to conduct research on the cutting-edge topics of computer vision 
 * 3D reconstruction from images
 * Omnidirectional (fisheye and catadioptric) cameras
 * Object tracking, Vision for robotics
-
-
-<br>
-<br>
-Department of Computer Engineering
-<br>
-Izmir Institute of Technology
-<br>
-Gulbahce, Urla, Izmir, 35430, Turkey
-<br>
-contact: cvrg[at]iyte.edu.tr
