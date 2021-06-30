@@ -2,7 +2,7 @@
 layout: home
 cover-images:
   - image-link: /assets/img/groups/cvrg_logo.png
-    image-position: center top
+    image-position: center
     caption:
       position: center
       text: >
@@ -10,7 +10,7 @@ cover-images:
 
         LOrem ipsum ...
   - image-link: /assets/img/research/visual-place-recognition.png
-    image-position: center top
+    image-position: center
     url: https://cvrg-iyte.github.io/panaromic-image-localization
     caption:
       position: center
@@ -19,7 +19,7 @@ cover-images:
 
         2021-...
   - image-link: /assets/img/research/maneuver-prediction.png
-    image-position: center top
+    image-position: center
     url: https://cvrg-iyte.github.io/maneuver-prediction
     caption:
       position: center
