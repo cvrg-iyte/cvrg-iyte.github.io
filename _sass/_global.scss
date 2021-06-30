@@ -128,10 +128,10 @@ body {
 
 ol.carousel-indicators {
   li {
-    background-color: $cvrg-gray;
+    background-color: $gray-200;
 
     &.active {
-      background-color: $cvrg-blue;
+      background-color: $cvrg-orange;
     }
   }
 }
