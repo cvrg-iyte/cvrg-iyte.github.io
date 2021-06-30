@@ -4,9 +4,17 @@ header.masthead {
   color: white;
 
   img {
-    max-height: 30vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
     width: 100%;
-    object-fit: fill;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(0,0,0,0.5);
+    z-index: 999;
   }
 
   .carousel {
