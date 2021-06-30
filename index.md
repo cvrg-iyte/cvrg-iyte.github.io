@@ -1,14 +1,6 @@
 ---
 layout: home
 cover-images:
-  - image-link: /assets/img/groups/cvrg_logo.png
-    image-position: center
-    caption:
-      position: center
-      text: >
-        ## Group Members
-
-        LOrem ipsum ...
   - image-link: /assets/img/research/visual-place-recognition.png
     image-position: center
     url: https://cvrg-iyte.github.io/panaromic-image-localization
