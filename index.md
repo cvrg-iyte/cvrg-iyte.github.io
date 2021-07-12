@@ -1,7 +1,7 @@
 ---
 layout: home
 cover-images:
-  - image-link: /assets/img/research/visual-place-recognition.png
+  - image-link: /assets/img/71.jpg
     image-position: center
     url: https://cvrg-iyte.github.io/panaromic-image-localization
     caption:
