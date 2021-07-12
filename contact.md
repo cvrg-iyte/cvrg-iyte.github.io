@@ -11,7 +11,3 @@ permalink: /about/contact
 If you have questions, or would like to get more information about CVRG, feel free to reach out to us at [cvrg@iyte.edu.tr](mailto:cvrg@iyte.edu.tr).
 
 Our mailing address is `CVRG Lab, Gulbahce Campus, Bilgisayar Mühendisliği, 35430, Urla, Izmir, TR`
-
-### Prospective PhD students Information
-
-Feel free to reach out to us at [cvrg@iyte.edu.tr](mailto:cvrg@iyte.edu.tr).
