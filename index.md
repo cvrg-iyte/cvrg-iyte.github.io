@@ -29,3 +29,10 @@ Group targets to conduct research on the cutting-edge topics of computer vision 
 * 3D reconstruction from images
 * Omnidirectional (fisheye and catadioptric) cameras
 * Object tracking, Vision for robotics
+
+
+### Recent News
+
+* July, 2021 - We've submitted a paper titled "Monocular Vision-based Prediction of Cut-in Maneuvers with LSTM Networks" to ICCV 2021 - [2nd Autonomous Vehicle Vision Workshop](https://avvision.xyz/iccv21/).
+* July, 2021 - We've submitted a paper titled "Monocular Vision-based Prediction of Cut-in Maneuvers with LSTM Networks" to ICCV 2021 - [2nd Autonomous Vehicle Vision Workshop](https://avvision.xyz/iccv21/).
+* 
