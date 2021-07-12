@@ -8,8 +8,7 @@ cover-images:
       position: center
       text: >
         ## Panoramic Image Based Localization Improved with Spherical Representations and Semantic Descriptors
-
-        2021-...
+        
   - image-link: /assets/img/research/maneuver-prediction.png
     image-position: center
     url: https://cvrg-iyte.github.io/maneuver-prediction
@@ -18,12 +17,9 @@ cover-images:
       text: >
         ## Prediction of Intended Maneuvers of Surrounding Vehicles for Driver Assistance Systems
 
-        2019-...
 cover-image-controls: false
 cover-image-indicators: true
 ---
-
-## Computer Vision Research Group
 
 Group targets to conduct research on the cutting-edge topics of computer vision related research areas such as:
 
