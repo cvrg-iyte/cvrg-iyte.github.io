@@ -75,9 +75,7 @@ Multi-view Structure-from-Motion for Hybrid Camera Scenarios</a>
 <br>Image and Vision Computing, vol.30(8), p.557-572, 2012.
 <br>To download the image datasets used in this paper, click <a href="http://cvrg.iyte.edu.tr/datasets.htm" target="mainFrame">here</a>, or select '<b>Datasets</b>' tab above. 
 </font></p>
-
 <br>
-
 <!-------------------->
 <!-- BOOK CHAPTERS  -->
 
@@ -96,7 +94,7 @@ Multi-view Structure-from-Motion for Hybrid Camera Scenarios</a>
  <i>in</i> <a href="http://www.amazon.com/miRNomics-MicroRNA-Computational-Analysis-Molecular/dp/1627037470" target="blank"> miRNomics: MicroRNA Biology and Computational Analysis</a>, Malik Yousef, Jens Allmer (Editors), Springer Protocols, Humana Press. 2014 edition.
  </font></p>
 <br>
-<br>
+
 <!-------------------------------------------->
 <!-- INTERNATIONAL CONFERENCES / WORKSHOPS  -->
 
@@ -149,11 +147,11 @@ Monocular Vision-based Prediction of Cut-in Maneuvers with LSTM Networks</a>
  International Conference on Computer Vision Theory and Applications (2015), 11-14 March, Berlin, Germany.
 <br>To download the image datasets used in this paper, click <a href="http://cvrg.iyte.edu.tr/datasets.htm" target="mainFrame">here</a>, or select '<b>Datasets</b>' tab above. 
  </font></p>
-
+<br>
 <!-------------------------->
 <!-- NATIONAL CONFERENCE  -->
 
-<br>
+
   <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">National Conference Publications</font></b>
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
@@ -211,12 +209,12 @@ IEEE Conference on Signal Processing and Applications (SIU) 2015, 16-19 May, Mal
 <i>Karaimer, H.C., Bastanlar, Y. </i> <br>
 IEEE Conference on Signal Processing and Communications Applications (SIU) 2014, 23-25 April, Trabzon, Turkey.
 <br>To download the image datasets used in this paper, click <a href="http://cvrg.iyte.edu.tr/datasets.htm" target="mainFrame">here</a>, or select '<b>Datasets</b>' tab above. 
-</font>
-
+ </font></p>
+<br>
 <!------------->
 <!-- THESES  -->
 
-<br>
+
 <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Theses</font></b>
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
