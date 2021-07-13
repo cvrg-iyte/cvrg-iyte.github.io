@@ -2,11 +2,10 @@
 
 <!-- saved from url=(0040)http://cvrg.iyte.edu.tr/publications.htm -->
 
-<body bgcolor="#FFFFFF" text="#000000" data-new-gr-c-s-check-loaded="14.1018.0" data-gr-ext-installed="">
-<font face="Verdana, Arial, Helvetica, sans-serif" size="1">
-This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
+<!-- <body bgcolor="#FFFFFF" text="#000000" data-new-gr-c-s-check-loaded="14.1018.0" data-gr-ext-installed=""> -->
+<!-- <font face="Verdana, Arial, Helvetica, sans-serif" size="1">  -->
+###### This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
 <br>
-</font>
 <br>
 
 <!--------------->
@@ -17,63 +16,63 @@ This material is presented to ensure timely dissemination of scholarly and techn
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
 <a href="/assets/docs/Publications/2021_ITSC_ynalcakan_ybastanlar_monocular_visionbased_prediction_of_cutin_maneuvers.pdf" target="blank">Catadioptric Hyperspectral Imaging, An Unmixing Approach</a><br>
  <i>Ozisik Baskurt, D., Bastanlar, Y., Yardimci Cetin, Y.</i><br>
- IET Computer Vision, 2020, Volume 14, Issue 7, pp 493 � 504, DOI:10.1049/iet-cvi.2019.0784
+ IET Computer Vision, 2020, Volume 14, Issue 7, pp 493-504, DOI:10.1049/iet-cvi.2019.0784
 </font>
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
 <a href="http://cvrg.iyte.edu.tr/publications/Tekeli_Bastanlar_TJEECS_AAM.pdf" target="blank">Elimination of Useless Images from Raw Camera-Trap Data</a><br>
  <i>Tekeli, U., Bastanlar, Y.</i><br>
  Turkish Journal of Electrical Engineering and Computer Sciences, 2019, Volume 27, pp 2395-2411, DOI:10.3906/elk-1808-130
-</font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+</font>
 
 
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
 <a href="http://cvrg.iyte.edu.tr/publications/Demiroz2019_AAM.pdf" target="blank">Affordable person detection in omnidirectional cameras using radial integral channel features</a><br>
- <i>Demir�z, B.E., Salah, A.A., Bastanlar, Y., Akarun, L.</i><br>
- Machine Vision and Applications, 2019, Volume 30, pp 645�655, DOI:10.1007/s00138-019-01016-w
-</font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+ <i>Demiroz, B.E., Salah, A.A., Bastanlar, Y., Akarun, L.</i><br>
+ Machine Vision and Applications, 2019, Volume 30, pp 645-655, DOI:10.1007/s00138-019-01016-w
+</font>
 
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
 <a href="http://cvrg.iyte.edu.tr/publications/Orhan_Bastanlar_EL2018_AAM.pdf" target="blank">Training convolutional neural networks with image patches for object localisation</a><br>
  <i>Orhan, S., Bastanlar, Y.</i><br>
- Electronics Letters, April 2018, Volume 54, Issue 7, pp 424�426, DOI:10.1049/el.2017.4725
-</font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+ Electronics Letters, April 2018, Volume 54, Issue 7, pp 424-426, DOI:10.1049/el.2017.4725
+</font>
 
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
 <a href="http://cvrg.iyte.edu.tr/publications/Karaimer_et_al_PAAA_AAM.pdf" target="blank">Detection and Classification of Vehicles from Omnidirectional Videos Using Multiple Silhouettes</a>
 <br><i>Karaimer, H.C., Baris, I., Bastanlar, Y.</i>
-<br>Pattern Analysis and Applications, August 2017, Volume 20, Issue 3, pp 893�905, DOI:10.1007/s10044-017-0593-z
+<br>Pattern Analysis and Applications, August 2017, Volume 20, Issue 3, pp 893-905, DOI:10.1007/s10044-017-0593-z
 <br>To download the image datasets used in this paper, click <a href="http://cvrg.iyte.edu.tr/datasets.htm" target="mainFrame">here</a>, or select '<b>Datasets</b>' tab above.
-</font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+</font>
 
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
 <a href="http://cvrg.iyte.edu.tr/publications/Bastanlar_PatRec_AAM_v7.pdf" target="blank">
 A simplified two-view geometry based external calibration method for omnidirectional and PTZ camera pairs</a>
 <br><i>Bastanlar, Y.</i>
-<br>Pattern Recognition Letters, Volume 71, 1 February 2016, Pages 1�7. DOI:10.1016/j.patrec.2015.11.013
+<br>Pattern Recognition Letters, Volume 71, 1 February 2016, Pages 1-7. DOI:10.1016/j.patrec.2015.11.013
 <br>
-</font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+</font>
 
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
 <a href="http://cvrg.iyte.edu.tr/publications/Cinaroglu_Bastanlar_SIVP_AAM.pdf" target="blank">
 A Direct Approach for Object Detection with Catadioptric Omnidirectional Cameras</a>
 <br><i>Cinaroglu, I., Bastanlar, Y.</i>
-<br>Signal, Image and Video Processing, Volume 10(2), February 2016, Pages 413�420. DOI:<a href="http://link.springer.com/article/10.1007/s11760-015-0768-2" target="blank">10.1007/s11760-015-0768-2</a>
+<br>Signal, Image and Video Processing, Volume 10(2), February 2016, Pages 413-420. DOI:<a href="http://link.springer.com/article/10.1007/s11760-015-0768-2" target="blank">10.1007/s11760-015-0768-2</a>
 <br>To download the image datasets used in this paper, click <a href="http://cvrg.iyte.edu.tr/datasets.htm" target="mainFrame">here</a>, or select '<b>Datasets</b>' tab above.
 </font></p>
 
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
 <a href="http://elcvia.cvc.uab.es/article/view/564" target="blank">
 Reduced egomotion estimation drift using omnidirectional views</a><br>
  <i>Bastanlar, Y.</i><br>
  Electronic Letters on Computer Vision and Image Analysis, vol.13(3), p.1-12, 2014.
-</font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+</font>
 
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
 <a href="http://cvrg.iyte.edu.tr/publications/MVhybridSfM_IMAVIS_AAM.pdf" target="blank">
 Multi-view Structure-from-Motion for Hybrid Camera Scenarios</a>
 <br><i>Bastanlar, Y., Temizel, A., Yardimci, Y., Sturm, P.</i>
-<br>Image and Vision Computing, vol.30(8), p.557�572, 2012.
+<br>Image and Vision Computing, vol.30(8), p.557-572, 2012.
 <br>To download the image datasets used in this paper, click <a href="http://cvrg.iyte.edu.tr/datasets.htm" target="mainFrame">here</a>, or select '<b>Datasets</b>' tab above. 
 </font></p>
 
