@@ -20,7 +20,7 @@ This material is presented to ensure timely dissemination of scholarly and techn
 </font>
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
-<a href="http://cvrg.iyte.edu.tr/publications/Tekeli_Bastanlar_TJEECS_AAM.pdf" target="blank">Elimination of Useless Images from Raw Camera-Trap Data</a><br>
+<a href="/assets/docs/Publications/Tekeli_Bastanlar_TJEECS_AAM.pdf" target="blank">Elimination of Useless Images from Raw Camera-Trap Data</a><br>
  <i>Tekeli, U., Bastanlar, Y.</i><br>
  Turkish Journal of Electrical Engineering and Computer Sciences, 2019, Volume 27, pp 2395-2411, DOI:10.3906/elk-1808-130
 </font>
