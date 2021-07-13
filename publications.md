@@ -83,18 +83,18 @@ Multi-view Structure-from-Motion for Hybrid Camera Scenarios</a>
 
 <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Book Chapters</font></b>
 
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> <a href="https://www.intechopen.com/online-first/deep-learning-exemplar-studies-in-natural-language-processing-and-computer-vision" target="blank">
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> <a href="https://www.intechopen.com/online-first/deep-learning-exemplar-studies-in-natural-language-processing-and-computer-vision" target="blank">
  Deep Learning: Exemplar Studies in Natural Language Processing and Computer Vision </a><br>
  <i>Tekir, S., Bastanlar, Y.</i><br>
  <i>in</i> Data Mining - Methods, Applications and Systems, Derya Birant (Editor), InTech Open. March 2020. DOI:10.5772/intechopen.91813
-</font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+</font>
 
 
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
  Introduction to Machine Learning<br>
  <i>Bastanlar, Y., Ozuysal, M.</i><br>
  <i>in</i> <a href="http://www.amazon.com/miRNomics-MicroRNA-Computational-Analysis-Molecular/dp/1627037470" target="blank"> miRNomics: MicroRNA Biology and Computational Analysis</a>, Malik Yousef, Jens Allmer (Editors), Springer Protocols, Humana Press. 2014 edition.
-</font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+</font>
 <br>
 
 <!-------------------------------------------->
@@ -119,37 +119,36 @@ Monocular Vision-based Prediction of Cut-in Maneuvers with LSTM Networks</a>
 </p>
 -->
 
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
 <a href="http://cvrg.iyte.edu.tr/publications/PAD-08.pdf" target="blank">Training Semantic Descriptors for Image-Based Localization</a>
 <br><i>Cinaroglu, I., Bastanlar, Y.</i>
 <br>ECCV 2020 Workshop on Perception for Autonomous Driving, 23 August 2020.
-</font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+</font>
 
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
 <a href="http://cvrg.iyte.edu.tr/publications/Baris_Bastanlar_ITSC2017.pdf" target="blank">Classification and Tracking of Traffic Scene Objects with Hybrid Camera Systems</a> 
 <br><i>Baris, I., Bastanlar, Y.</i>
 <br>IEEE International Transportation Systems Conference (ITSC 2017), 16-19 October 2017, Yokohama, Japan.
-</font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+</font>
 
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
 <a href="http://cvrg.iyte.edu.tr/publications/Ubmk2016.pdf" target="blank">Detecting Photos with Leopards Using Convolutional Neural Networks</a><br>
  <i>Orhan, S., Bastanlar, Y.</i><br>
  International Conference on Computer Science and Engineering, 20-23 October 2016, Tekirdag, Turkey.
-</font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+</font>
 
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
 <a href="http://cvrg.iyte.edu.tr/publications/karaimer_et_al_ITSC2015.pdf" target="blank">Combining shape-based and gradient-based classifiers for vehicle classification</a><br>
  <i>Karaimer, H.C., Cinaroglu, I., Bastanlar, Y.</i><br>
  IEEE International Transportation Systems Conference (ITSC 2015), 14-18 September 2015, Las Palmas de Gran Canaria, Spain.
-</font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+</font>
 
-
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
  <a href="http://cvrg.iyte.edu.tr/publications/Karaimer_Bastanlar_visapp15.pdf" target="blank">Detection and Classification of Vehicles from Omnidirectional Videos using Temporal Average of Silhouettes</a><br>
  <i>Karaimer, H.C., Bastanlar, Y.</i><br>
  International Conference on Computer Vision Theory and Applications (2015), 11-14 March, Berlin, Germany.
 <br>To download the image datasets used in this paper, click <a href="http://cvrg.iyte.edu.tr/datasets.htm" target="mainFrame">here</a>, or select '<b>Datasets</b>' tab above. 
-</font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+</font>
 
 <!-------------------------->
 <!-- NATIONAL CONFERENCE  -->
@@ -157,62 +156,62 @@ Monocular Vision-based Prediction of Cut-in Maneuvers with LSTM Networks</a>
 <br>
   <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">National Conference Publications</font></b>
 
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
  <a href="http://cvrg.iyte.edu.tr/publications/siu2020_konteyner.pdf" target="blank">Container Damage Detection and Classification Using Container Images (in Turkish)</a><br>
 <i>Imamoglu, Z., Tuglular, T., Bastanlar, Y. </i> <br>
 IEEE Conference on Signal Processing and Applications (SIU) 2020, 5-7 October.
-</font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+</font>
 
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
  <a href="http://cvrg.iyte.edu.tr/publications/siu2019_localization.pdf" target="blank">Image Based Localization Using Semantic Segmentation for Autonomous Driving (in Turkish)</a><br>
 <i>Cinaroglu, I., Bastanlar, Y. </i> <br>
 IEEE Conference on Signal Processing and Applications (SIU) 2019, 24-26 April, Sivas, Turkey.
-</font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+</font>
 
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
  <a href="http://cvrg.iyte.edu.tr/publications/siu2018_fotokapan.pdf" target="blank">Detection of Images with Animals in Raw Camera-Trap Data (in Turkish)</a><br>
 <i>Tekeli, U., Bastanlar, Y. </i> <br>
 IEEE Conference on Signal Processing and Applications (SIU) 2018, 2-5 May, Izmir, Turkey.
-</font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+</font>
 
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
  <a href="http://cvrg.iyte.edu.tr/publications/siu2017_CNN.pdf" target="blank">Effect of Patch Based Training on Object Localization with Convolutional Neural Networks (in Turkish)</a><br>
 <i>Orhan, S., Bastanlar, Y. </i> <br>
 IEEE Conference on Signal Processing and Applications (SIU) 2017, 16-19 May, Antalya, Turkey.
-</font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+</font>
 
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
  <a href="http://cvrg.iyte.edu.tr/publications/siu2017_sukroz.pdf" target="blank">Estimation of Low Sucrose Concentrations by UV-Vis Spectroscopy and Artificial Neural Networks (in Turkish)</a><br>
 <i>Mezgil, B., Erdogan, D., Alduran, Y., Yildiz, U.H., Arslan-Yildiz, A., Bastanlar, Y. </i> <br>
 IEEE Conference on Signal Processing and Applications (SIU) 2017, 16-19 May, Antalya, Turkey.
-</font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+</font>
 
 
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
  <a href="http://cvrg.iyte.edu.tr/publications/siu2016.pdf" target="blank">Classification of Vehicles with Omnidirectional and PTZ cameras (in Turkish)</a><br>
 <i>Baris, I., Bastanlar, Y. </i> <br>
 IEEE Conference on Signal Processing and Applications (SIU) 2016, 16-19 May, Zonguldak, Turkey.
-</font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+</font>
 
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
 <a href="http://cvrg.iyte.edu.tr/publications/siu2015.pdf" target="blank">Classification of Vehicles Using Binary Foreground Images Averaged Over Time (in Turkish)</a><br>
 <i>Karaimer, H.C., Bastanlar, Y.</i><br>
 IEEE Conference on Signal Processing and Applications (SIU) 2015, 16-19 May, Malatya, Turkey.
-</font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+</font>
 
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
  <a href="http://cvrg.iyte.edu.tr/publications/Cinaroglu_Bastanlar_SIU2014.pdf" target="blank">A Direct Approach for Human Detection with Catadioptric Omnidirectional Cameras</a><br>
  <i>Cinaroglu, I., Bastanlar, Y.</i><br>
  IEEE Conference on Signal Processing and Communications Applications (SIU) 2014, 23-25 April, Trabzon, Turkey.
 <br>To download the image datasets used in this paper, click <a href="http://cvrg.iyte.edu.tr/datasets.htm" target="mainFrame">here</a>, or select '<b>Datasets</b>' tab above. 
-</font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+</font>
 
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
  <a href="http://cvrg.iyte.edu.tr/publications/Karaimer_Bastanlar_SIU2014.pdf" target="blank">Car Detection with Omnidirectional Cameras Using Haar-Like Features and Cascaded Boosting (in Turkish)</a><br>
 <i>Karaimer, H.C., Bastanlar, Y. </i> <br>
 IEEE Conference on Signal Processing and Communications Applications (SIU) 2014, 23-25 April, Trabzon, Turkey.
 <br>To download the image datasets used in this paper, click <a href="http://cvrg.iyte.edu.tr/datasets.htm" target="mainFrame">here</a>, or select '<b>Datasets</b>' tab above. 
-</font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+</font>
 
 <!------------->
 <!-- THESES  -->
@@ -220,30 +219,30 @@ IEEE Conference on Signal Processing and Communications Applications (SIU) 2014,
 <br>
 <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Theses</font></b>
 
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
 Improved Image Based Localization Using Semantic Descriptors<br>
 Ibrahim Cinaroglu, 2021, Ph.D. Thesis, Izmir Institute of Technology, Izmir, Turkey.
 </font></p>
 
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
 <a href="/assets/docs/Publications/Hakan_MScThesis.pdf" target="blank">
 Detection and Localization of Motorway Overhead Directional Signs by Convolutional Neural Networks Trained with Synthetic Images</a><br>
 Hakan Hekimgil, 2019, M.Sc. Thesis, Izmir Institute of Technology, Izmir, Turkey.
 </font></p>
 
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
 <a href="http://cvrg.iyte.edu.tr/publications/Bahadir_MScThesis.pdf" target="blank">
 Estimation of Low Sucrose Concentrations and Classification of Bacteria Concentrations with Machine Learning on Spectroscopic Data</a><br>
 Bahadir Mezgil, 2019, M.Sc. Thesis, Izmir Institute of Technology, Izmir, Turkey.
 </font></p>
 
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
 <a href="http://cvrg.iyte.edu.tr/publications/Ulas_MScThesis.pdf" target="blank">
 Elimination of Useless Images from Raw Camera-Trap Data</a><br>
 Ulas Tekeli, 2018, M.Sc. Thesis, Izmir Institute of Technology, Izmir, Turkey.
 </font></p>
 
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
 <a href="http://cvrg.iyte.edu.tr/publications/SemihOrhan_MScThesis.pdf" target="blank">
 Localization of certain animal species in images via training neural networks with image patches</a><br>
 Semih Orhan, 2017, M.Sc. Thesis, Izmir Institute of Technology, Izmir, Turkey.
@@ -255,13 +254,13 @@ Classification and Tracking of Vehicles with Hybrid Camera Systems</a><br>
 Ipek Baris, 2016, M.Sc. Thesis, Izmir Institute of Technology, Izmir, Turkey.
 </font></p>
 
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
 <a href="http://cvrg.iyte.edu.tr/publications/HakkiCanKaraimer_MScThesis.pdf" target="blank">
 Shape-based Detection and Classification of Vehicles using Omnidirectional Videos</a><br>
 Hakki Can Karaimer, 2015, M.Sc. Thesis, Izmir Institute of Technology, Izmir, Turkey.
 </font></p>
 
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
 <a href="http://cvrg.iyte.edu.tr/publications/IbrahimCinaroglu_MScThesis.pdf" target="blank">
 A Direct Approach for Object Detection with Omnidirectional Cameras</a><br>
 Ibrahim Cinaroglu, 2014, M.Sc. Thesis, Izmir Institute of Technology, Izmir, Turkey.
