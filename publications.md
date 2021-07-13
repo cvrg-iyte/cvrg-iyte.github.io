@@ -1,11 +1,6 @@
 #### Publications
 
-
 <!-- saved from url=(0040)http://cvrg.iyte.edu.tr/publications.htm -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1254">
-<title>Publicationsss</title>
-<meta http-equiv="Content-Type" content="text/html; charset=">
-</head>
 
 <body bgcolor="#FFFFFF" text="#000000" data-new-gr-c-s-check-loaded="14.1018.0" data-gr-ext-installed="">
 <font face="Verdana, Arial, Helvetica, sans-serif" size="1">
@@ -19,13 +14,13 @@ This material is presented to ensure timely dissemination of scholarly and techn
 
 <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Journal Publications</font></b>
 
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
 <a href="/assets/docs/Publications/2021_ITSC_ynalcakan_ybastanlar_monocular_visionbased_prediction_of_cutin_maneuvers.pdf" target="blank">Catadioptric Hyperspectral Imaging, An Unmixing Approach</a><br>
  <i>Ozisik Baskurt, D., Bastanlar, Y., Yardimci Cetin, Y.</i><br>
  IET Computer Vision, 2020, Volume 14, Issue 7, pp 493 � 504, DOI:10.1049/iet-cvi.2019.0784
-</font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+</font>
 
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
 <a href="http://cvrg.iyte.edu.tr/publications/Tekeli_Bastanlar_TJEECS_AAM.pdf" target="blank">Elimination of Useless Images from Raw Camera-Trap Data</a><br>
  <i>Tekeli, U., Bastanlar, Y.</i><br>
  Turkish Journal of Electrical Engineering and Computer Sciences, 2019, Volume 27, pp 2395-2411, DOI:10.3906/elk-1808-130
