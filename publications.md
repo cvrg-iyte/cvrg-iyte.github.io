@@ -3,8 +3,8 @@
 <!-- saved from url=(0040)http://cvrg.iyte.edu.tr/publications.htm -->
 
 <!-- <body bgcolor="#FFFFFF" text="#000000" data-new-gr-c-s-check-loaded="14.1018.0" data-gr-ext-installed=""> -->
-<!-- <font face="Verdana, Arial, Helvetica, sans-serif" size="1">  -->
-###### This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
+<font face="Verdana, Arial, Helvetica, sans-serif" size="1">
+This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
 <br>
 <br>
 
