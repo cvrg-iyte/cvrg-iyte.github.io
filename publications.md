@@ -14,7 +14,7 @@ This material is presented to ensure timely dissemination of scholarly and techn
 <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Journal Publications</font></b>
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
-<a href="/assets/docs/Publications/2021_ITSC_ynalcakan_ybastanlar_monocular_visionbased_prediction_of_cutin_maneuvers.pdf" target="blank">Catadioptric Hyperspectral Imaging, An Unmixing Approach</a><br>
+<a href="/assets/docs/Publications/Ozisik_IET_Catadioptric_AAM.pdf" target="blank">Catadioptric Hyperspectral Imaging, An Unmixing Approach</a><br>
  <i>Ozisik Baskurt, D., Bastanlar, Y., Yardimci Cetin, Y.</i><br>
  IET Computer Vision, 2020, Volume 14, Issue 7, pp 493-504, DOI:10.1049/iet-cvi.2019.0784
 </font>
@@ -94,9 +94,9 @@ Multi-view Structure-from-Motion for Hybrid Camera Scenarios</a>
  Introduction to Machine Learning<br>
  <i>Bastanlar, Y., Ozuysal, M.</i><br>
  <i>in</i> <a href="http://www.amazon.com/miRNomics-MicroRNA-Computational-Analysis-Molecular/dp/1627037470" target="blank"> miRNomics: MicroRNA Biology and Computational Analysis</a>, Malik Yousef, Jens Allmer (Editors), Springer Protocols, Humana Press. 2014 edition.
-</font>
+ </font></p>
 <br>
-
+<br>
 <!-------------------------------------------->
 <!-- INTERNATIONAL CONFERENCES / WORKSHOPS  -->
 
@@ -148,7 +148,7 @@ Monocular Vision-based Prediction of Cut-in Maneuvers with LSTM Networks</a>
  <i>Karaimer, H.C., Bastanlar, Y.</i><br>
  International Conference on Computer Vision Theory and Applications (2015), 11-14 March, Berlin, Germany.
 <br>To download the image datasets used in this paper, click <a href="http://cvrg.iyte.edu.tr/datasets.htm" target="mainFrame">here</a>, or select '<b>Datasets</b>' tab above. 
-</font>
+ </font></p>
 
 <!-------------------------->
 <!-- NATIONAL CONFERENCE  -->
@@ -248,7 +248,7 @@ Localization of certain animal species in images via training neural networks wi
 Semih Orhan, 2017, M.Sc. Thesis, Izmir Institute of Technology, Izmir, Turkey.
 </font></p>
 
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
 <a href="http://cvrg.iyte.edu.tr/publications/IpekBaris_MScThesis.pdf" target="blank">
 Classification and Tracking of Vehicles with Hybrid Camera Systems</a><br>
 Ipek Baris, 2016, M.Sc. Thesis, Izmir Institute of Technology, Izmir, Turkey.
