@@ -14,6 +14,12 @@ This material is presented to ensure timely dissemination of scholarly and techn
 <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Journal Publications</font></b>
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
+<a href="https://rdcu.be/ct4IC" target="blank">Semantic segmentation of outdoor panoramic images</a><br>
+ <i>Orhan, S., Bastanlar, Y.</i><br>
+ Signal, Image and Video Processing, 2021, DOI:10.1007/s11760-021-02003-3
+</font>
+  
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
 <a href="/assets/docs/Publications/Ozisik_IET_Catadioptric_AAM.pdf" target="blank">Catadioptric Hyperspectral Imaging, An Unmixing Approach</a><br>
  <i>Ozisik Baskurt, D., Bastanlar, Y., Yardimci Cetin, Y.</i><br>
  IET Computer Vision, 2020, Volume 14, Issue 7, pp 493-504, DOI:10.1049/iet-cvi.2019.0784
@@ -100,14 +106,13 @@ Multi-view Structure-from-Motion for Hybrid Camera Scenarios</a>
 
 <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">International Conference/Workshop Publications</font></b>
 
-<!--
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
-<a href="publications/Orhan_Bastanlar_ITSC2021.pdf" target="blank">
-Efficient Search in a Panoramic Image Database for Long-term Image-based Vehicle Localization</a> 
+<a href="publications/Orhan_Bastanlar_ACVR2021.pdf" target="blank">
+Efficient Search in a Panoramic Image Database for Long-term Visual Localization</a>
 <br><i>Orhan, S., Bastanlar, Y.</i>
-<br>IEEE International Transportation Systems Conference (ITSC 2021), 19-22 September 2021, Indianapolis, USA.
+<br>ICCV 2021 - Ninth International Workshop on Assistive Computer Vision and Robotics, 11 October 2021.
 </p>
--->
+
 <!--
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
 <a href="publications/Nalcakan_Bastanlar_ITSC2021.pdf" target="blank">
