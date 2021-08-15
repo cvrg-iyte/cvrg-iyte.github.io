@@ -107,7 +107,7 @@ Multi-view Structure-from-Motion for Hybrid Camera Scenarios</a>
 <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">International Conference/Workshop Publications</font></b>
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
-<a href="publications/Orhan_Bastanlar_ACVR2021.pdf" target="blank">
+<a href="/assets/docs/Publications/Orhan_Bastanlar_ACVR2021.pdf" target="blank">
 Efficient Search in a Panoramic Image Database for Long-term Visual Localization</a>
 <br><i>Orhan, S., Bastanlar, Y.</i>
 <br>ICCV 2021 - Ninth International Workshop on Assistive Computer Vision and Robotics, 11 October 2021.
@@ -115,7 +115,7 @@ Efficient Search in a Panoramic Image Database for Long-term Visual Localization
 
 <!--
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
-<a href="publications/Nalcakan_Bastanlar_ITSC2021.pdf" target="blank">
+<a href="/assets/docs/Publications/Nalcakan_Bastanlar_ITSC2021.pdf" target="blank">
 Monocular Vision-based Prediction of Cut-in Maneuvers with LSTM Networks</a> 
 <br><i>Nalcakan, Y., Bastanlar, Y.</i>
 <br>IEEE International Transportation Systems Conference (ITSC 2021), 19-22 September 2021, Indianapolis, USA.
