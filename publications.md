@@ -111,8 +111,7 @@ Multi-view Structure-from-Motion for Hybrid Camera Scenarios</a>
 <a href="/assets/docs/Publications/Orhan_Bastanlar_ACVR2021.pdf" target="blank">
 Efficient Search in a Panoramic Image Database for Long-term Visual Localization</a>
 <br><i>Orhan, S., Bastanlar, Y.</i>
-<br>ICCV 2021 - Ninth International Workshop on Assistive Computer Vision and Robotics, 11 October 2021.
-</p>
+<br>ICCV 2021 Workshop on Assistive Computer Vision and Robotics, 11 October 2021.
 
 <!--
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
