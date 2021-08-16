@@ -17,6 +17,7 @@ This material is presented to ensure timely dissemination of scholarly and techn
 <a href="https://rdcu.be/ct4IC" target="blank">Semantic segmentation of outdoor panoramic images</a><br>
  <i>Orhan, S., Bastanlar, Y.</i><br>
  Signal, Image and Video Processing, 2021, DOI:10.1007/s11760-021-02003-3
+ <br>To download the image dataset used in this paper, click <a href="https://github.com/semihorhan/semseg-outdoor-pano" target="blank">here</a>.
 </font>
   
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
