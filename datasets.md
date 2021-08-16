@@ -123,16 +123,9 @@ Related publication: <a href="/assets/docs/Publications/Karaimer_Bastanlar_SIU20
 
 <font face="Verdana, Arial, Helvetica, sans-serif" size="2"> <b>*</b> 
     <a href="https://drive.google.com/file/d/1r4tFtIV-wbZf0MihpLDZideLLbonvV3H/view?usp=sharing">Hyperbolic Calibration Set:</a> A set of calibration images for a catadioptric camera with an hyperbolic mirror (NeoVision H3S).
-</font></p>
-
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
-Note: Some of the above sets are available in bitmap format (on request).
-<br>
-Related publication: <a href="/assets/docs/Publications/multiview-IMAVIS2012.pdf" target="blank">Bastanlar et al.(2012), Multi-view Structure-from-Motion for Hybrid Camera Scenarios</a>.
+</font><br>
+    
+Related publication: <a href="/assets/docs/Publications/multiview-IMAVIS2012.pdf" target="blank">Bastanlar et al.(2012), Multi-view Structure-from-Motion for Hybrid Camera Scenarios, Image and Vision Computing, vol.30(8), pp.557-572.</a>.
 </font></p>
 <br>
 
-
-
-
-</body></html>
