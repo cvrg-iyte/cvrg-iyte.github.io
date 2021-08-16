@@ -223,6 +223,12 @@ IEEE Conference on Signal Processing and Communications Applications (SIU) 2014,
 
 <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Theses</font></b>
 
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
+<a href="/assets/docs/Publications/Unver_MScThesis.pdf" target="blank">
+Improvement on Motion-guided Siamese Object Tracking Networks using Prioritized Windows</a><br>
+Unver Can Unlu, 2021, M.Sc. Thesis, Izmir Institute of Technology, Izmir, Turkey.
+</font></p>
+ 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
 <a href="/assets/docs/Publications/IbrahimCinaroglu_PhDThesis.pdf" target="blank">
 Improved Image Based Localization Using Semantic Descriptors</a><br>
