@@ -6,7 +6,6 @@ permalink: /members/current-members
 
 ## Members
 
-Lorem ipsum ...
 
 {% include spotlight-inline.html
   name="Yalin Bastanlar"
@@ -17,14 +16,14 @@ Lorem ipsum ...
 
 {% include spotlight-inline.html
   name="Semih Orhan"
-  ptitle= "PhD Student"
+  ptitle= "PhD Candidate"
   cover-image= "/assets/img/people/semih_orhan.png"
   email_address= "semihorhan@iyte.edu.tr"
   content="--"%}
 
 {% include spotlight-inline.html
   name="Yagiz Nalcakan"
-  ptitle= "PhD Student"
+  ptitle= "PhD Candidate"
   cover-image= "/assets/img/people/yagiz_nalcakan.jpg"
   email_address= "yagiznalcakan@iyte.edu.tr"
   content="--"%}
