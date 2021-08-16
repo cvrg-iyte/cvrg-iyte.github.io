@@ -85,7 +85,7 @@ Multi-view Structure-from-Motion for Hybrid Camera Scenarios</a>
 <br>
 <!-------------------->
 <!-- BOOK CHAPTERS  -->
-
+<br>
 <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Book Chapters</font></b>
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> <a href="https://www.intechopen.com/online-first/deep-learning-exemplar-studies-in-natural-language-processing-and-computer-vision" target="blank">
@@ -104,7 +104,7 @@ Multi-view Structure-from-Motion for Hybrid Camera Scenarios</a>
 
 <!-------------------------------------------->
 <!-- INTERNATIONAL CONFERENCES / WORKSHOPS  -->
-
+<br>
 <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">International Conference/Workshop Publications</font></b>
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
