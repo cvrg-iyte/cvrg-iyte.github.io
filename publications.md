@@ -151,7 +151,7 @@ Monocular Vision-based Prediction of Cut-in Maneuvers with LSTM Networks</a>
  <a href="/assets/docs/Publications/Karaimer_Bastanlar_visapp15.pdf" target="blank">Detection and Classification of Vehicles from Omnidirectional Videos using Temporal Average of Silhouettes</a><br>
  <i>Karaimer, H.C., Bastanlar, Y.</i><br>
  International Conference on Computer Vision Theory and Applications (2015), 11-14 March, Berlin, Germany.
-<br>To download the image datasets used in this paper, click <a href="http://cvrg.iyte.edu.tr/datasets.htm" target="mainFrame">here</a>, or select '<b>Datasets</b>' tab above. 
+<br>To download the image datasets used in this paper, click <a href="https://cvrg-iyte.github.io/datasets/" target="blank">here</a>, or select '<b>Datasets</b>' tab above. 
  </font></p>
 <br>
 <!-------------------------->
@@ -207,14 +207,14 @@ IEEE Conference on Signal Processing and Applications (SIU) 2015, 16-19 May, Mal
  <a href="/assets/docs/Publications/Cinaroglu_Bastanlar_SIU2014.pdf" target="blank">A Direct Approach for Human Detection with Catadioptric Omnidirectional Cameras</a><br>
  <i>Cinaroglu, I., Bastanlar, Y.</i><br>
  IEEE Conference on Signal Processing and Communications Applications (SIU) 2014, 23-25 April, Trabzon, Turkey.
-<br>To download the image datasets used in this paper, click <a href="http://cvrg.iyte.edu.tr/datasets.htm" target="mainFrame">here</a>, or select '<b>Datasets</b>' tab above. 
+<br>To download the image datasets used in this paper, click <a href="https://cvrg-iyte.github.io/datasets/" target="blank">here</a>, or select '<b>Datasets</b>' tab above. 
 </font>
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
  <a href="/assets/docs/Publications/Karaimer_Bastanlar_SIU2014.pdf" target="blank">Car Detection with Omnidirectional Cameras Using Haar-Like Features and Cascaded Boosting (in Turkish)</a><br>
 <i>Karaimer, H.C., Bastanlar, Y. </i> <br>
 IEEE Conference on Signal Processing and Communications Applications (SIU) 2014, 23-25 April, Trabzon, Turkey.
-<br>To download the image datasets used in this paper, click <a href="http://cvrg.iyte.edu.tr/datasets.htm" target="mainFrame">here</a>, or select '<b>Datasets</b>' tab above. 
+<br>To download the image datasets used in this paper, click <a href="https://cvrg-iyte.github.io/datasets/" target="blank">here</a>, or select '<b>Datasets</b>' tab above. 
  </font></p>
 <br>
 <!------------->
