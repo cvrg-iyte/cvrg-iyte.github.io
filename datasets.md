@@ -15,18 +15,18 @@ permalink: /datasets/
 <body bgcolor="#FFFFFF" text="#333399" data-new-gr-c-s-check-loaded="14.1018.0" data-gr-ext-installed="">
 
 <p><br><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b> 
-0) Outdoor panoramic image dataset for semantic segmentation</b></font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+1) Outdoor panoramic image dataset for semantic segmentation</b></font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
 <table width="840" border="0">
 <tbody><tr>
 <td width="837"><img src="/assets/img/pano-sem-seg-img-ss.png"></td>
 </tr>
 </tbody></table>
-<b>*</b> Dataset contains semantically pixel-level annotated 600 outdoor panoramic images (20 semantic classes and grouped them into 7 categories) and can be downloaded via <a href="https://github.com/semihorhan/semseg-outdoor-pano" target="blank">project's github repo</a>.
+Dataset contains semantically pixel-level annotated 600 outdoor panoramic images (20 semantic classes, grouped into 7 categories) belonging to the city of Pittsburgh and can be downloaded via <a href="https://github.com/semihorhan/semseg-outdoor-pano" target="blank">project's github repo</a>.
     
 <br>
     
 <p><br><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b> 
-1) Camera-trap dataset for animal detection or animal/non-animal image classification </b></font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+2) Camera-trap dataset for animal detection or animal/non-animal image classification </b></font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
 <table width="800" border="0">
 <tbody><tr>
 <td width="793"><img src="/assets/img/cameratrap.png"></td>
@@ -51,7 +51,7 @@ Related publication: <a href="/assets/docs/Publications/Tekeli_Bastanlar_TJEECS_
 
 
 <p><br><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b> 
-2) Fisheye video dataset for vehicle classification </b></font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+3) Fisheye video dataset for vehicle classification </b></font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
 
 The dataset consists of more than 100 .avi files and can be downloaded as rar files (~200 MB each) using the link given
 <a href="https://drive.google.com/folderview?id=0B-WJ94ZX9H02TGlIZFNFNHBOV2c&amp;usp=sharing" target="blank">here</a>.<br>
@@ -64,7 +64,7 @@ copyright:IEEE  https://ieeexplore.ieee.org/document/8317588/
 
 
 <p><br><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>
-3) Catadioptric camera video dataset for vehicle classification </b></font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+4) Catadioptric camera video dataset for vehicle classification </b></font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
 
 The dataset can be downloaded via three different zip files using the links given below.<br>
 
@@ -83,7 +83,7 @@ Related publication: <a href="/assets/docs/Publications/Karaimer_Bastanlar_visap
 
 
 <p><br><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>
-4) Omnidirectional and panoramic image dataset (with annotations) to be used for human and car detection </b></font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+5) Omnidirectional and panoramic image dataset (with annotations) to be used for human and car detection </b></font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
 
 <a href="https://drive.google.com/file/d/13xf5D-3Po9kZLO1LuBKnX__q0x3ceYBt/view?usp=sharing">Dataset 1</a> (37 MB) contains 30 omnidirectional images to detect (standing) humans (66 annotated instances) and 50 omnidirectional images to detect (side-view) cars (65 annotated instances).<br>
 Dataset also contains panoramic images converted from the omnidirectional ones. 
@@ -99,7 +99,7 @@ Related publication 2: <a href="/assets/docs/Publications/Cinaroglu_Bastanlar_SI
 
 
 <p><br><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>
-5) Panoramic image dataset (with annotations) to be used for car detection </b></font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+6) Panoramic image dataset (with annotations) to be used for car detection </b></font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
 
 <a href="https://drive.google.com/file/d/1GhRv2EoWLplXbtkV0qNXQkmer5tyeTg1/view?usp=sharing">Dataset</a> (5MB) contains i) 25 para-catadioptric images, ii) 50 cylindrical panoramic images obtained from the catadioptric images (25 original and 25 mirrored), annotations for cars in those images, iii) 50 spherical panoramic images obtained from the catadioptric images, annotations for cars in those images.
 <br><br>
@@ -107,7 +107,7 @@ Related publication: <a href="/assets/docs/Publications/Karaimer_Bastanlar_SIU20
 
 
 <p><br><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b> 
-6) Image datasets to be used in studies on hybrid structure-from-motion and omnidirectional camera calibration </b></font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+7) Image datasets to be used in studies on hybrid structure-from-motion and omnidirectional camera calibration </b></font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
 <table width="640" border="0">
 <tbody><tr>
 <td width="177"><img src="/assets/img/cata.jpg"><font size="2"> catadioptric</font></td>
