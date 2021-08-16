@@ -49,7 +49,7 @@ This material is presented to ensure timely dissemination of scholarly and techn
 <a href="/assets/docs/Publications/Karaimer_et_al_PAAA_AAM.pdf" target="blank">Detection and Classification of Vehicles from Omnidirectional Videos Using Multiple Silhouettes</a>
 <br><i>Karaimer, H.C., Baris, I., Bastanlar, Y.</i>
 <br>Pattern Analysis and Applications, August 2017, Volume 20, Issue 3, pp 893-905, DOI:10.1007/s10044-017-0593-z
-<br>To download the image datasets used in this paper, click <a href="http://cvrg.iyte.edu.tr/datasets.htm" target="mainFrame">here</a>, or select '<b>Datasets</b>' tab above.
+<br>To download the image datasets used in this paper, click <a href="https://cvrg-iyte.github.io/datasets/" target="mainFrame">here</a>, or select '<b>Datasets</b>' tab above.
 </font>
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
