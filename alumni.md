@@ -6,11 +6,15 @@ permalink: /members/alumni
 
 ### Graduated students
 
-* Hakkı Can Karaimer (now a post-doc at EPFL, Switzerland)
+* İbrahim Çınaroğlu (now a faculty member in Karamanoglu Mehmetbey University, Turkey)
+
+* Hakkı Can Karaimer (now working at AMD, Canada)
 
 * Ipek Barış (now a Ph.D. student in University of Koblenz-Landau, Germany)
 
-* Ulaş Tekeli (now working at ETE Solutions, Izmir)
+* Ulaş Tekeli (now working at Rapsodo, Izmir)
+
+* Ünver Can Ünlü
 
 * Bahadır Mezgil
 
