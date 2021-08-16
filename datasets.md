@@ -106,23 +106,23 @@ Related publication: <a href="/assets/docs/Publications/Karaimer_Bastanlar_SIU20
 </tbody></table>
 
 <b>*</b> 
-    <a href="/assets/datasets/HybridSet1.zip">Hybrid Set 1:</a> A perspective and a catadioptric omnidirectional camera (together with camera parameters and calibration images).
+    <a href="https://drive.google.com/file/d/174aN1na6BUz_g5_ehFNzTsCi7WTUXrva/view?usp=sharing">Hybrid Set 1:</a> A perspective and a catadioptric omnidirectional camera (together with camera parameters and calibration images).
 <br>
 
 <b>*</b> 
-    <a href="/assets/datasets/HybridSet2.zip">Hybrid Set 2:</a> An omnidirectional camera and some frames (approx. 1/sec.) from a perspective footage (with camera parameters and calibration images).
+    <a href="/assets/datasets/HybridSet2.ziphttps://drive.google.com/file/d/1BMrSPh_KrRM_CF0QnOe13Pc9EE7TnDhe/view?usp=sharing">Hybrid Set 2:</a> An omnidirectional camera and some frames (approx. 1/sec.) from a perspective footage (with camera parameters and calibration images).
 <br>
 
-<font face="Verdana, Arial, Helvetica, sans-serif" size="2"> <b>�</b> 
-    <a href="/assets/datasets/HybridSet3.zip">Hybrid Set 3:</a> A perspective, a fisheye and a para-catadioptric omnidirectional camera (together with camera parameters and calibration images).
+<font face="Verdana, Arial, Helvetica, sans-serif" size="2"> <b>*</b> 
+    <a href="https://drive.google.com/file/d/1JaNf3ZTk2fKz5UuSlspxvmttR42XCr_f/view?usp=sharing">Hybrid Set 3:</a> A perspective, a fisheye and a para-catadioptric omnidirectional camera (together with camera parameters and calibration images).
 </font><br>
 
-<font face="Verdana, Arial, Helvetica, sans-serif" size="2"> <b>�</b> 
-    <a href="/assets/datasets/HybridSet4.zip">Hybrid Set 4:</a> A perspective and a catadioptric omnidirectional camera (together with camera parameters and calibration images).
+<font face="Verdana, Arial, Helvetica, sans-serif" size="2"> <b>*</b> 
+    <a href="https://drive.google.com/file/d/1FqTcDsab90QY6zAYr-2RtZcOwKsiQKR9/view?usp=sharing">Hybrid Set 4:</a> A perspective and a catadioptric omnidirectional camera (together with camera parameters and calibration images).
 </font><br>
 
-<font face="Verdana, Arial, Helvetica, sans-serif" size="2"> <b>�</b> 
-    <a href="/assets/datasets/HyperbolicOmniCalibSet.zip">Hyperbolic Calibration Set:</a> A set of calibration images for a catadioptric camera with an hyperbolic mirror (NeoVision H3S).
+<font face="Verdana, Arial, Helvetica, sans-serif" size="2"> <b>*</b> 
+    <a href="https://drive.google.com/file/d/1r4tFtIV-wbZf0MihpLDZideLLbonvV3H/view?usp=sharing">Hyperbolic Calibration Set:</a> A set of calibration images for a catadioptric camera with an hyperbolic mirror (NeoVision H3S).
 </font></p>
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
@@ -135,6 +135,4 @@ Related publication: <a href="/assets/docs/Publications/multiview-IMAVIS2012.pdf
 
 
 
-</font></font></font></font></font></font><div id="weava-permanent-marker" date="1625042015359"></div><div id="weava-ui-wrapper"><div class="weava-drop-area-wrapper"><div class="weava-drop-area"></div>
-<div class="weava-drop-area-text">Drop here!</div>
-</div></div></body></html>
+</body></html>
