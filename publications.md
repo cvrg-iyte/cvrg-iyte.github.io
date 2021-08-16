@@ -49,7 +49,7 @@ This material is presented to ensure timely dissemination of scholarly and techn
 <a href="/assets/docs/Publications/Karaimer_et_al_PAAA_AAM.pdf" target="blank">Detection and Classification of Vehicles from Omnidirectional Videos Using Multiple Silhouettes</a>
 <br><i>Karaimer, H.C., Baris, I., Bastanlar, Y.</i>
 <br>Pattern Analysis and Applications, August 2017, Volume 20, Issue 3, pp 893-905, DOI:10.1007/s10044-017-0593-z
-<br>To download the image datasets used in this paper, click <a href="https://cvrg-iyte.github.io/datasets/" target="mainFrame">here</a>, or select '<b>Datasets</b>' tab above.
+<br>To download the image datasets used in this paper, click <a href="https://cvrg-iyte.github.io/datasets/" target="blank">here</a>, or select '<b>Datasets</b>' tab above.
 </font>
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
@@ -65,7 +65,7 @@ A simplified two-view geometry based external calibration method for omnidirecti
 A Direct Approach for Object Detection with Catadioptric Omnidirectional Cameras</a>
 <br><i>Cinaroglu, I., Bastanlar, Y.</i>
 <br>Signal, Image and Video Processing, Volume 10(2), February 2016, Pages 413-420. DOI:<a href="http://link.springer.com/article/10.1007/s11760-015-0768-2" target="blank">10.1007/s11760-015-0768-2</a>
-<br>To download the image datasets used in this paper, click <a href="http://cvrg.iyte.edu.tr/datasets.htm" target="mainFrame">here</a>, or select '<b>Datasets</b>' tab above.
+<br>To download the image datasets used in this paper, click <a href="https://cvrg-iyte.github.io/datasets/" target="blank">here</a>, or select '<b>Datasets</b>' tab above.
 </font></p>
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
@@ -80,7 +80,7 @@ Reduced egomotion estimation drift using omnidirectional views</a><br>
 Multi-view Structure-from-Motion for Hybrid Camera Scenarios</a>
 <br><i>Bastanlar, Y., Temizel, A., Yardimci, Y., Sturm, P.</i>
 <br>Image and Vision Computing, vol.30(8), p.557-572, 2012.
-<br>To download the image datasets used in this paper, click <a href="http://cvrg.iyte.edu.tr/datasets.htm" target="mainFrame">here</a>, or select '<b>Datasets</b>' tab above. 
+<br>To download the image datasets used in this paper, click <a href="https://cvrg-iyte.github.io/datasets/" target="blank">here</a>, or select '<b>Datasets</b>' tab above. 
 </font></p>
 <br>
 <!-------------------->
@@ -107,7 +107,7 @@ Multi-view Structure-from-Motion for Hybrid Camera Scenarios</a>
 
 <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">International Conference/Workshop Publications</font></b>
 
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
 <a href="/assets/docs/Publications/Orhan_Bastanlar_ACVR2021.pdf" target="blank">
 Efficient Search in a Panoramic Image Database for Long-term Visual Localization</a>
 <br><i>Orhan, S., Bastanlar, Y.</i>
@@ -115,7 +115,7 @@ Efficient Search in a Panoramic Image Database for Long-term Visual Localization
 </p>
 
 <!--
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
 <a href="/assets/docs/Publications/Nalcakan_Bastanlar_ITSC2021.pdf" target="blank">
 Monocular Vision-based Prediction of Cut-in Maneuvers with LSTM Networks</a> 
 <br><i>Nalcakan, Y., Bastanlar, Y.</i>
