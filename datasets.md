@@ -16,9 +16,9 @@ permalink: /datasets/
 
 <p><br><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b> 
 0) Outdoor panoramic image dataset for semantic segmentation</b></font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
-<table width="800" border="0">
+<table width="840" border="0">
 <tbody><tr>
-<td width="793"><img src="/assets/img/pano-sem-seg-img.png"></td>
+<td width="837"><img src="/assets/img/pano-sem-seg-img-ss.png"></td>
 </tr>
 </tbody></table>
 <b>*</b> Dataset contains semantically pixel-level annotated 600 outdoor panoramic images (20 semantic classes and grouped them into 7 categories) and can be downloaded via <a href="https://github.com/semihorhan/semseg-outdoor-pano" target="blank">project's github repo</a>.
