@@ -74,25 +74,25 @@ Related publication: <a href="/assets/docs/Publications/Karaimer_Bastanlar_visap
 <p><br><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>
 4) Omnidirectional and panoramic image dataset (with annotations) to be used for human and car detection </b></font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
 
-<a href="/assets/datasets/HumanCarOmniDataset.zip">Dataset 1</a> (37 MB) contains 30 omnidirectional images to detect (standing) humans (66 annotated instances) and 50 omnidirectional images to detect (side-view) cars (65 annotated instances).<br>
+<a href="https://drive.google.com/file/d/13xf5D-3Po9kZLO1LuBKnX__q0x3ceYBt/view?usp=sharing">Dataset 1</a> (37 MB) contains 30 omnidirectional images to detect (standing) humans (66 annotated instances) and 50 omnidirectional images to detect (side-view) cars (65 annotated instances).<br>
 Dataset also contains panoramic images converted from the omnidirectional ones. 
 Annotations are provided in three sets: i) rectangular bounding boxes sliding and rotating around image center for omnidirectional images, ii) proposed (dough-nut slice) annotations for omnidirectional images, iii) standard (up-right) bounding box annotations for panoramic images.
 <br><br>
 
-<a href="/assets/datasets/synthetic_omnidirectional_image_set.zip">Dataset 2</a> (5 MB) contains synthetic catadioptric omnidirectional images which are formed by projecting perspective images to a 'defined' omnidirectional camera. One set projects 210 perspective images from INRIA person dataset, the other one projects 466 car side-views from UIUC and Darmstadt perspective image datasets.<br>
+<a href="https://drive.google.com/file/d/1lqv0WGgyWoEDIt1fbqSUvwutN3iIW4Vm/view?usp=sharing">Dataset 2</a> (5 MB) contains synthetic catadioptric omnidirectional images which are formed by projecting perspective images to a 'defined' omnidirectional camera. One set projects 210 perspective images from INRIA person dataset, the other one projects 466 car side-views from UIUC and Darmstadt perspective image datasets.<br>
 <br>
 
-Related publication: <a href="/assets/docs/Publications/Cinaroglu_Bastanlar_SIU2014.pdf" target="blank">Cinaroglu, I. and Bastanlar, Y. (2014), A Direct Approach for Human Detection with Catadioptric Omnidirectional Cameras, IEEE Conference on Signal Processing and Communications Applications (SIU) 2014</a>.
-
+Related publication 1: <a href="/assets/docs/Publications/Cinaroglu_Bastanlar_SIU2014.pdf" target="blank">Cinaroglu, I. and Bastanlar, Y. (2014), A Direct Approach for Human Detection with Catadioptric Omnidirectional Cameras, IEEE Conference on Signal Processing and Communications Applications (SIU) 2014</a>.
+    
+Related publication 2: <a href="/assets/docs/Publications/Cinaroglu_Bastanlar_SIVP_AAM.pdf" target="blank">Cinaroglu, I. and Bastanlar, Y. (2014), A Direct Approach for Object Detection with Catadioptric Omnidirectional Cameras, Signal, Image and Video Processing, Volume 10(2), February 2016, Pages 413-420. DOI:10.1007/s11760-015-0768-2</a>.
 
 
 <p><br><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>
 5) Panoramic image dataset (with annotations) to be used for car detection </b></font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
 
-<a href="/assets/datasets/omnidirectional_cylindrical_spherical.zip">Dataset</a> (5MB) contains i) 25 para-catadioptric images, ii) 50 cylindrical panoramic images obtained from the catadioptric images (25 original and 25 mirrored), annotations for cars in those images, iii) 50 spherical panoramic images obtained from the catadioptric images, annotations for cars in those images.
+<a href="https://drive.google.com/file/d/1GhRv2EoWLplXbtkV0qNXQkmer5tyeTg1/view?usp=sharing">Dataset</a> (5MB) contains i) 25 para-catadioptric images, ii) 50 cylindrical panoramic images obtained from the catadioptric images (25 original and 25 mirrored), annotations for cars in those images, iii) 50 spherical panoramic images obtained from the catadioptric images, annotations for cars in those images.
 <br><br>
 Related publication: <a href="/assets/docs/Publications/Karaimer_Bastanlar_SIU2014.pdf" target="blank">Karaimer, H.C. and Bastanlar, Y. (2014), Car Detection with Omnidirectional Cameras Using Haar-like Features and Cascaded Boosting (in Turkish), IEEE Conference on Signal Processing and Communications Applications (SIU) 2014</a>.
-
 
 
 <p><br><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b> 
@@ -105,13 +105,13 @@ Related publication: <a href="/assets/docs/Publications/Karaimer_Bastanlar_SIU20
 </tr>
 </tbody></table>
 
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> <b>�</b> 
+<b>*</b> 
     <a href="/assets/datasets/HybridSet1.zip">Hybrid Set 1:</a> A perspective and a catadioptric omnidirectional camera (together with camera parameters and calibration images).
-</font><br>
+<br>
 
-<font face="Verdana, Arial, Helvetica, sans-serif" size="2"> <b>�</b> 
+<b>*</b> 
     <a href="/assets/datasets/HybridSet2.zip">Hybrid Set 2:</a> An omnidirectional camera and some frames (approx. 1/sec.) from a perspective footage (with camera parameters and calibration images).
-</font><br>
+<br>
 
 <font face="Verdana, Arial, Helvetica, sans-serif" size="2"> <b>�</b> 
     <a href="/assets/datasets/HybridSet3.zip">Hybrid Set 3:</a> A perspective, a fisheye and a para-catadioptric omnidirectional camera (together with camera parameters and calibration images).
