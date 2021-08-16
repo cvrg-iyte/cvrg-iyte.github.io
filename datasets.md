@@ -127,4 +127,4 @@ Related publication: <a href="/assets/docs/Publications/Karaimer_Bastanlar_SIU20
     <br>
 Related publication: <a href="/assets/docs/Publications/multiview-IMAVIS2012.pdf" target="blank">Bastanlar et al.(2012), Multi-view Structure-from-Motion for Hybrid Camera Scenarios, Image and Vision Computing, vol.30(8), pp.557-572.</a>
 <br>
-
+<br>
