@@ -22,8 +22,9 @@ permalink: /datasets/
 </tr>
 </tbody></table>
 Dataset contains semantically pixel-level annotated 600 outdoor panoramic images (20 semantic classes, grouped into 7 categories) belonging to the city of Pittsburgh and can be downloaded via <a href="https://github.com/semihorhan/semseg-outdoor-pano" target="blank">project's github repo</a>.
-    
 <br>
+<br>
+Related publication: <a href="https://rdcu.be/ct4IC" target="blank">Orhan, S., Bastanlar, Y. Semantic segmentation of outdoor panoramic images, Signal Image and Video Processing, 2021 DOI:10.1007/s11760-021-02003-3</a>
     
 <p><br><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b> 
 2) Camera-trap dataset for animal detection or animal/non-animal image classification </b></font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
