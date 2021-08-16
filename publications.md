@@ -85,9 +85,9 @@ Multi-view Structure-from-Motion for Hybrid Camera Scenarios</a>
 <br>
 <!-------------------->
 <!-- BOOK CHAPTERS  -->
-<br>
-<b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Book Chapters</font></b>
 
+<b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Book Chapters</font></b>
+<br>
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> <a href="https://www.intechopen.com/online-first/deep-learning-exemplar-studies-in-natural-language-processing-and-computer-vision" target="blank">
  Deep Learning: Exemplar Studies in Natural Language Processing and Computer Vision </a><br>
  <i>Tekir, S., Bastanlar, Y.</i><br>
@@ -104,9 +104,9 @@ Multi-view Structure-from-Motion for Hybrid Camera Scenarios</a>
 
 <!-------------------------------------------->
 <!-- INTERNATIONAL CONFERENCES / WORKSHOPS  -->
-<br>
-<b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">International Conference/Workshop Publications</font></b>
 
+<b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">International Conference/Workshop Publications</font></b>
+<br>
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
 <a href="/assets/docs/Publications/Orhan_Bastanlar_ACVR2021.pdf" target="blank">
 Efficient Search in a Panoramic Image Database for Long-term Visual Localization</a>
