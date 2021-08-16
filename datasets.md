@@ -83,7 +83,7 @@ Annotations are provided in three sets: i) rectangular bounding boxes sliding an
 <br>
 
 Related publication 1: <a href="/assets/docs/Publications/Cinaroglu_Bastanlar_SIU2014.pdf" target="blank">Cinaroglu, I. and Bastanlar, Y. (2014), A Direct Approach for Human Detection with Catadioptric Omnidirectional Cameras, IEEE Conference on Signal Processing and Communications Applications (SIU) 2014</a>.
-    
+<br>    
 Related publication 2: <a href="/assets/docs/Publications/Cinaroglu_Bastanlar_SIVP_AAM.pdf" target="blank">Cinaroglu, I. and Bastanlar, Y. (2014), A Direct Approach for Object Detection with Catadioptric Omnidirectional Cameras, Signal, Image and Video Processing, Volume 10(2), February 2016, Pages 413-420. DOI:10.1007/s11760-015-0768-2</a>.
 
 
@@ -104,7 +104,7 @@ Related publication: <a href="/assets/docs/Publications/Karaimer_Bastanlar_SIU20
 <td width="243"><img src="/assets/img/pers.jpg"><font size="2"> perspective</font></td>
 </tr>
 </tbody></table>
-
+<br>
 <b>*</b> 
     <a href="https://drive.google.com/file/d/174aN1na6BUz_g5_ehFNzTsCi7WTUXrva/view?usp=sharing">Hybrid Set 1:</a> A perspective and a catadioptric omnidirectional camera (together with camera parameters and calibration images).
 <br>
@@ -124,8 +124,7 @@ Related publication: <a href="/assets/docs/Publications/Karaimer_Bastanlar_SIU20
 <font face="Verdana, Arial, Helvetica, sans-serif" size="2"> <b>*</b> 
     <a href="https://drive.google.com/file/d/1r4tFtIV-wbZf0MihpLDZideLLbonvV3H/view?usp=sharing">Hyperbolic Calibration Set:</a> A set of calibration images for a catadioptric camera with an hyperbolic mirror (NeoVision H3S).
 </font><br>
-    
-Related publication: <a href="/assets/docs/Publications/multiview-IMAVIS2012.pdf" target="blank">Bastanlar et al.(2012), Multi-view Structure-from-Motion for Hybrid Camera Scenarios, Image and Vision Computing, vol.30(8), pp.557-572.</a>.
-</font></p>
+    <br>
+Related publication: <a href="/assets/docs/Publications/multiview-IMAVIS2012.pdf" target="blank">Bastanlar et al.(2012), Multi-view Structure-from-Motion for Hybrid Camera Scenarios, Image and Vision Computing, vol.30(8), pp.557-572.</a>
 <br>
 
