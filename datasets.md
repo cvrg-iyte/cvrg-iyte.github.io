@@ -18,7 +18,7 @@ permalink: /datasets/
 1) Camera-trap dataset for animal detection or animal/non-animal image classification </b></font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
 <table width="800" border="0">
 <tbody><tr>
-<td width="793"><img src="./cameratrap.png"></td>
+<td width="793"><img src="/assets/img/cameratrap.png"></td>
 </tr>
 </tbody></table>
 <b>*</b> The dataset consists of 4005 images and can be downloaded as zip files (randomly split 8 files, ~300 MB each) using the link given <a href="https://drive.google.com/drive/folders/18BkGQTLB2lgNlXfw__cvMd9P-Fvyk5Wi?usp=sharing" target="blank">here</a>.
@@ -99,9 +99,9 @@ Related publication: <a href="/assets/docs/Publications/Karaimer_Bastanlar_SIU20
 6) Image datasets to be used in studies on hybrid structure-from-motion and omnidirectional camera calibration </b></font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
 <table width="640" border="0">
 <tbody><tr>
-<td width="177"><img src="./cata.jpg"><font size="2"> catadioptric</font></td>
-<td width="220"><img src="./fish.jpg"><font size="2"> fisheye</font></td>
-<td width="243"><img src="./pers.jpg"><font size="2"> perspective</font></td>
+<td width="177"><img src="/assets/img/cata.jpg"><font size="2"> catadioptric</font></td>
+<td width="220"><img src="/assets/img/fish.jpg"><font size="2"> fisheye</font></td>
+<td width="243"><img src="/assets/img/pers.jpg"><font size="2"> perspective</font></td>
 </tr>
 </tbody></table>
 
