@@ -15,6 +15,17 @@ permalink: /datasets/
 <body bgcolor="#FFFFFF" text="#333399" data-new-gr-c-s-check-loaded="14.1018.0" data-gr-ext-installed="">
 
 <p><br><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b> 
+0) Outdoor panoramic image dataset for semantic segmentation</b></font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+<table width="800" border="0">
+<tbody><tr>
+<td width="793"><img src="/assets/img/cameratrap.png"></td>
+</tr>
+</tbody></table>
+<b>*</b> The dataset consists of 4005 images and can be downloaded via <a href="https://github.com/semihorhan/semseg-outdoor-pano" target="blank">project's github repo</a>.
+    
+<br>
+    
+<p><br><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b> 
 1) Camera-trap dataset for animal detection or animal/non-animal image classification </b></font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
 <table width="800" border="0">
 <tbody><tr>
