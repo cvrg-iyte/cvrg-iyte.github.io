@@ -33,5 +33,5 @@ Group targets to conduct research on the cutting-edge topics of computer vision 
 
 #### Recent News
 
-* July, 2021 - We've submitted a paper titled "Monocular Vision-based Prediction of Cut-in Maneuvers with LSTM Networks" to [ICCV 2021 - 2nd Autonomous Vehicle Vision Workshop](https://avvision.xyz/iccv21/).
-* July, 2021 - We've submitted a paper titled "Efficient Search in a Panoramic Image Database for Long-term Image-based Vehicle Localization" to [ICCV 2021 - Ninth International Workshop on Assistive Computer Vision and Robotics](https://iplab.dmi.unict.it/acvr2021/).
+* Sept, 2021 - Submitted a book chapter titled "Monocular Vision-based Prediction of Cut-in Maneuvers with LSTM Networks" to [IntechOpen Book Series - AI](https://www.intechopen.com/series/14/).
+* Aug, 2021 - ICCV Workshop paper accepted. "Efficient Search in a Panoramic Image Database for Long-term Image-based Vehicle Localization" in [ICCV 2021 - Ninth International Workshop on Assistive Computer Vision and Robotics](https://openaccess.thecvf.com/content/ICCV2021W/ACVR/papers/Orhan_Efficient_Search_in_a_Panoramic_Image_Database_for_Long-Term_Visual_ICCVW_2021_paper.pdf).
