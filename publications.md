@@ -113,7 +113,6 @@ Multi-view Structure-from-Motion for Hybrid Camera Scenarios</a>
 Monocular Vision-based Prediction of Cut-in Maneuvers with LSTM Networks</a>
 <br><i>Nalcakan, Y., Bastanlar, Y.</i>
 <br>International Conference on Science, Engineering Management and Information Technology (SEMIT 2022), 2-3 February 2022.
-</p>
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
 <a href="/assets/docs/Publications/Orhan_Bastanlar_ACVR2021.pdf" target="blank">
