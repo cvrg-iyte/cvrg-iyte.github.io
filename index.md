@@ -33,5 +33,5 @@ Group targets to conduct research on the cutting-edge topics of computer vision 
 
 #### Recent News
 
-* January, 2022 - SEMIT 2022 paper accepted. "Monocular Vision-based Prediction of Cut-in Maneuvers with LSTM Networks" in [Int Conf on Science, Engineering Management and Information Technology](/assets/docs/Publications/Nalcakan-Bastanlar-SEMIT.pdf).
+* Jan, 2022 - SEMIT 2022 paper accepted. "Monocular Vision-based Prediction of Cut-in Maneuvers with LSTM Networks" in [Int Conf on Science, Engineering Management and Information Technology](/assets/docs/Publications/Nalcakan-Bastanlar-SEMIT.pdf).
 * Aug, 2021 - ICCV Workshop paper accepted. "Efficient Search in a Panoramic Image Database for Long-term Image-based Vehicle Localization" in [ICCV 2021 - Ninth International Workshop on Assistive Computer Vision and Robotics](https://openaccess.thecvf.com/content/ICCV2021W/ACVR/papers/Orhan_Efficient_Search_in_a_Panoramic_Image_Database_for_Long-Term_Visual_ICCVW_2021_paper.pdf).
