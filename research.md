@@ -19,31 +19,30 @@ Visual Place Recognition with a Perspective Query Image and a Database of Panora
 <br>
 
 <br>
+### Completed Projects
+
+<br>
 <img src="/assets/img/research/localization.png" width="600">
 <br>
-Improved Topological Localization using Classified Object Content in Images [2017-...].
+Improved Topological Localization using Semantic Content in Images [2017-2021].
 <br>
 
 <br>
-### Completed Projects
-<br>
-
-<img src="/assets/img/research/leopard.png">
+<img src="/assets/img/research/leopard.png" width="500">
 <br>
 Detection of certain animal species in the photos of camera-traps placed in the pathways of the wild animals [2016-2019].
-
 <br>
 
-<img src="/assets/img/research/omniHOG.png">
+<br>
+<img src="/assets/img/research/omniHOG.png" width="400">
 <br>
 Classification of Objects in Traffic Scenes using Omnidirectional and PTZ Cameras [2013-2016].
-
 <br>
 
-<img src="/assets/img/research/proposed1-clean-thicker.png">
+<br>
+<img src="/assets/img/research/proposed1-clean-thicker.png" width="300">
 <br>
 Human Detection with Catadioptric Omnidirectional Cameras [2012-2014].
-
 <br>
 
 <!-- <img src="/assets/img/research/multi-view.png">
