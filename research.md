@@ -34,7 +34,7 @@ Visual Place Recognition with a Perspective Query Image and a Database of Panora
 
 <table width="800" border="0">
 <tbody><tr>
-<td width="793"><img src="/assets/img/research/localization.png"></td>
+<td width="593"><img src="/assets/img/research/localization.png"></td>
 </tr>
 </tbody></table>
 
