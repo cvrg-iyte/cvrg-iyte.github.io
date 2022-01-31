@@ -30,7 +30,7 @@ Improved Topological Localization using Semantic Content in Images [2017-2021].
 <br>
 <img src="/assets/img/research/leopard.png" width="500">
 <br>
-Detection of certain animal species in the photos of camera-traps placed in the pathways of the wild animals [2016-2019].
+Detection of wild animal species in the photos of camera-traps [2016-2019].
 <br>
 
 <br>
