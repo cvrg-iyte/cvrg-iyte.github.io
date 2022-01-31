@@ -20,13 +20,24 @@ Prediction of Intended Maneuvers of Surrounding Vehicles for Driver Assistance S
 
 <br>
 
-<img src="/assets/img/research/visual-place-recognition.png">
+<table width="800" border="0">
+<tbody><tr>
+<td width="793"><img src="/assets/img/research/visual-place-recognition.png"></td>
+</tr>
+</tbody></table>
+
+
 <br>
 Visual Place Recognition with a Perspective Query Image and a Database of Panoramic Images [2019-...].
 
 <br>
 
-<img src="/assets/img/research/localization.png">
+<table width="800" border="0">
+<tbody><tr>
+<td width="793"><img src="/assets/img/research/localization.png"></td>
+</tr>
+</tbody></table>
+
 <br>
 Improved Topological Localization using Classified Object Content in Images [2017-...].
 
