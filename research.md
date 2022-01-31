@@ -61,7 +61,7 @@ Human Detection with Catadioptric Omnidirectional Cameras [2012-2014].
 
 <br>
 
-<img src="/assets/img/research/multi-view.png">
+<!-- <img src="/assets/img/research/multi-view.png">
 <br>
 Multi-view Structure-from-Motion for Hybrid Camera Scenarios [2007-2012].
-<br>
+<br> -->
