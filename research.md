@@ -4,9 +4,9 @@ title: "Research"
 excerpt: "CVRG - Research"
 toc: true
 ---
-
-### Ongoing Projects
 <br>
+### Ongoing Projects
+
 <img src="/assets/img/maneuver-prediction.png" width="750">
 <br>
 Prediction of Intended Maneuvers of Surrounding Vehicles for Driver Assistance Systems [2019-...].
