@@ -15,9 +15,17 @@ This material is presented to ensure timely dissemination of scholarly and techn
 
 <!--
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
+<a href="https://rdcu.be/ct4IC" target="blank">Dementia Diagnosis by Ensemble Deep Neural Networks using FDG-PET Scans</a><br>
+ <i>Yigit, A., Bastanlar, Y., Isik, Z.</i><br>
+ Signal, Image and Video Processing, 2022, DOI:
+</font>
+  -->
+ 
+<!--
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
 <a href="https://rdcu.be/ct4IC" target="blank">Long-term Image-based Vehicle Localization Improved with Learnt Semantic Descriptors</a><br>
  <i>Cinaroglu, I., Bastanlar, Y.</i><br>
- Engineering Science and Technology, an International Journal, 2022, DOI:10.1007/s11760-021-02003-3
+ Engineering Science and Technology, an International Journal, 2022, DOI:
 </font>
   -->
  
@@ -118,8 +126,8 @@ Multi-view Structure-from-Motion for Hybrid Camera Scenarios</a>
 
 <!--
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
-<a href="/assets/docs/Publications/Orhan_Bastanlar_ACVR2021.pdf" target="blank">
-Efficient Search in a Panoramic Image Database for Long-term Visual Localization</a>
+<a href="/assets/docs/Publications/Orhan_Bastanlar_XXXX2022.pdf" target="blank">
+Semantic based Pose Verification for Outdoor Visual Localization with Self-supervised Contrastive Learning </a>
 <br><i>Orhan, S., Bastanlar, Y.</i>
 <br>CVPR 2022 Workshop on ......, .. June 2022.
  -->
