@@ -9,6 +9,7 @@ toc: true
 <br>
 
 ![](/assets/images/maneuver-prediction.png)  
+<img src="/assets/images/maneuver-prediction.png">
 <br>
 Prediction of Intended Maneuvers of Surrounding Vehicles for Driver Assistance Systems [2019-...].
 
