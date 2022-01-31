@@ -7,11 +7,7 @@ toc: true
 
 ### Ongoing Projects
 <br>
-<table width="700" border="0">
-<tbody><tr>
-<td width="693"><img src="/assets/img/maneuver-prediction.png"></td>
-</tr>
-</tbody></table>
+<img src="/assets/img/maneuver-prediction.png">
 <br>
 Prediction of Intended Maneuvers of Surrounding Vehicles for Driver Assistance Systems [2019-...].
 
