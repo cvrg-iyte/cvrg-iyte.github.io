@@ -13,8 +13,16 @@ This material is presented to ensure timely dissemination of scholarly and techn
 
 <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Journal Publications</font></b>
 
+<!--
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
-<a href="https://rdcu.be/ct4IC" target="blank">Semantic segmentation of outdoor panoramic images</a><br>
+<a href="https://rdcu.be/ct4IC" target="blank">Long-term Image-based Vehicle Localization Improved with Learnt Semantic Descriptors</a><br>
+ <i>Cinaroglu, I., Bastanlar, Y.</i><br>
+ Engineering Science and Technology, an International Journal, 2022, DOI:10.1007/s11760-021-02003-3
+</font>
+  -->
+ 
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
+<a href="https://rdcu.be/ct4IC" target="blank">Semantic Segmentation of Outdoor Panoramic Images</a><br>
  <i>Orhan, S., Bastanlar, Y.</i><br>
  Signal, Image and Video Processing, 2021, DOI:10.1007/s11760-021-02003-3
  <br>To download the image dataset used in this paper, click <a href="https://github.com/semihorhan/semseg-outdoor-pano" target="blank">here</a>.
@@ -108,6 +116,14 @@ Multi-view Structure-from-Motion for Hybrid Camera Scenarios</a>
 <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">International Conference/Workshop Publications</font></b>
 <br>
 
+<!--
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
+<a href="/assets/docs/Publications/Orhan_Bastanlar_ACVR2021.pdf" target="blank">
+Efficient Search in a Panoramic Image Database for Long-term Visual Localization</a>
+<br><i>Orhan, S., Bastanlar, Y.</i>
+<br>CVPR 2022 Workshop on ......, .. June 2022.
+ -->
+ 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
 <a href="/assets/docs/Publications/Nalcakan-Bastanlar-SEMIT.pdf" target="blank">
 Monocular Vision-based Prediction of Cut-in Maneuvers with LSTM Networks</a>
