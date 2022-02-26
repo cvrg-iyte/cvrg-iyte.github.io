@@ -24,7 +24,7 @@ This material is presented to ensure timely dissemination of scholarly and techn
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
 <a href="https://www.sciencedirect.com/science/article/pii/S2215098622000064" target="blank">Long-term Image-based Vehicle Localization Improved with Learnt Semantic Descriptors</a><br>
  <i>Cinaroglu, I., Bastanlar, Y.</i><br>
- Engineering Science and Technology, an International Journal, vol. 35, November 2022, DOI:10.1016/j.jestch.2022.101098
+ Engineering Science and Technology, an International Journal (JESTECH), vol. 35, November 2022, DOI:10.1016/j.jestch.2022.101098
 </font>
 
  
