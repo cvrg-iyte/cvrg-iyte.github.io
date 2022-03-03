@@ -6,16 +6,17 @@ permalink: /members/alumni
 
 ### Graduated students
 
-* İbrahim Çınaroğlu (now a faculty member in Karamanoglu Mehmetbey University, Turkey)
+* İbrahim Çınaroğlu (now an Asst. Prof. Dr. at Karamanoglu Mehmetbey University, Turkey)
 
-* Hakkı Can Karaimer (now working at AMD, Canada)
+* Hakkı Can Karaimer (now working at Qualcomm, Toronto, Canada)
 
-* Ipek Barış (now a Ph.D. student in University of Koblenz-Landau, Germany)
+* Ipek Barış (now a Ph.D. student in Universitat Politècnica de València, Spain)
+
+* Hakan Hekimgil (now working at CubeHX, Toronto, Canada)
 
 * Ulaş Tekeli (now working at Rapsodo, Izmir)
 
+* Bahadır Mezgil (now working at Getir, Izmir)
+
 * Ünver Can Ünlü
 
-* Bahadır Mezgil
-
-* Hakan Hekimgil
