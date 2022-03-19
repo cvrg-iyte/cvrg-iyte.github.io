@@ -13,13 +13,11 @@ This material is presented to ensure timely dissemination of scholarly and techn
 
 <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Journal Publications</font></b>
 
-<!--
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
-<a href="https://rdcu.be/ct4IC" target="blank">Dementia Diagnosis by Ensemble Deep Neural Networks using FDG-PET Scans</a><br>
+<a href="https://" target="blank">Dementia Diagnosis by Ensemble Deep Neural Networks using FDG-PET Scans</a><br>
  <i>Yigit, A., Bastanlar, Y., Isik, Z.</i><br>
- Signal, Image and Video Processing, 2022, DOI:
+ Signal, Image and Video Processing, 2022, DOI:10.1007/s11760-022-02185-4
 </font>
-  -->
  
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
 <a href="https://www.sciencedirect.com/science/article/pii/S2215098622000064" target="blank">Long-term Image-based Vehicle Localization Improved with Learnt Semantic Descriptors</a><br>
