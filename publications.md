@@ -101,6 +101,7 @@ Multi-view Structure-from-Motion for Hybrid Camera Scenarios</a>
 
 <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Book Chapters</font></b>
 <br>
+
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> <a href="https://www.intechopen.com/online-first/deep-learning-exemplar-studies-in-natural-language-processing-and-computer-vision" target="blank">
  Deep Learning: Exemplar Studies in Natural Language Processing and Computer Vision </a><br>
  <i>Tekir, S., Bastanlar, Y.</i><br>
@@ -121,13 +122,11 @@ Multi-view Structure-from-Motion for Hybrid Camera Scenarios</a>
 <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">International Conference/Workshop Publications</font></b>
 <br>
 
-<!--
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
-<a href="/assets/docs/Publications/Orhan_Bastanlar_XXXX2022.pdf" target="blank">
-Semantic based Pose Verification for Outdoor Visual Localization with Self-supervised Contrastive Learning </a>
-<br><i>Orhan, S., Bastanlar, Y.</i>
-<br>CVPR 2022 Workshop on ......, .. June 2022.
- -->
+<a href="https://arxiv.org/abs/2203.16945" target="blank">
+Semantic Pose Verification for Outdoor Visual Localization with Self-supervised Contrastive Learning </a>
+<br><i>Orhan, S., Guerrero, J.J., Bastanlar, Y.</i>
+<br>CVPR 2022 Workshop on Learning with Limited Labelled Data for Image and Video Understanding, 20 June 2022.
  
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
 <a href="/assets/docs/Publications/Nalcakan-Bastanlar-SEMIT.pdf" target="blank">
