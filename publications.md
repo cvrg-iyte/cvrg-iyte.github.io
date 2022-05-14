@@ -102,6 +102,12 @@ Multi-view Structure-from-Motion for Hybrid Camera Scenarios</a>
 <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Book Chapters</font></b>
 <br>
 
+ <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> <a href="https://www.intechopen.com/online-first/81791" target="blank">
+ Self-Supervised Contrastive Representation Learning in Computer Vision </a><br>
+ <i>Bastanlar, Y., Orhan, S., </i><br>
+ <i>in</i> Pattern Recognition - New Insights, Carlos M. Travieso-Gonzalez (Editor), InTech Open. May 2022. DOI:10.5772/intechopen.104785
+</font>
+  
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> <a href="https://www.intechopen.com/online-first/deep-learning-exemplar-studies-in-natural-language-processing-and-computer-vision" target="blank">
  Deep Learning: Exemplar Studies in Natural Language Processing and Computer Vision </a><br>
  <i>Tekir, S., Bastanlar, Y.</i><br>
