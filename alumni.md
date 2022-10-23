@@ -6,7 +6,9 @@ permalink: /members/alumni
 
 ### Graduated students
 
-* İbrahim Çınaroğlu (now an Asst. Prof. Dr. at Karamanoglu Mehmetbey University, Turkey)
+* Semih Orhan (now a post-doc researcher at Eindhoven University of Technology, Netherlands)
+
+* İbrahim Çınaroğlu (now an Asst. Prof. at Karamanoglu Mehmetbey University, Turkey)
 
 * Hakkı Can Karaimer (now working at Qualcomm, Toronto, Canada)
 
