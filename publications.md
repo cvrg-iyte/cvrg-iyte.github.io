@@ -14,6 +14,12 @@ This material is presented to ensure timely dissemination of scholarly and techn
 <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Journal Publications</font></b>
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
+ Cut-in Maneuver Detection with Self-supervised Contrastive Video Representation Learning<br>
+ <i>Nalcakan, Y., Bastanlar, Y.</i><br>
+ <b>submitted to</b> Signal, Image and Video Processing
+</font>
+  
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
 <a href="https://rdcu.be/cJnfH" target="blank">Dementia Diagnosis by Ensemble Deep Neural Networks using FDG-PET Scans</a><br>
  <i>Yigit, A., Bastanlar, Y., Isik, Z.</i><br>
  Signal, Image and Video Processing, 2022, DOI:10.1007/s11760-022-02185-4
@@ -105,7 +111,7 @@ Multi-view Structure-from-Motion for Hybrid Camera Scenarios</a>
  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> <a href="https://www.intechopen.com/online-first/81791" target="blank">
  Self-Supervised Contrastive Representation Learning in Computer Vision </a><br>
  <i>Bastanlar, Y., Orhan, S., </i><br>
- <i>in</i> Pattern Recognition - New Insights, Carlos M. Travieso-Gonzalez (Editor), InTech Open. May 2022. DOI:10.5772/intechopen.104785
+ <i>in</i> Applied Intelligence - Annual Volume 2022, Carlos M. Travieso-Gonzalez (Editor), IntechOpen. May 2022. DOI:10.5772/intechopen.104785
 </font>
   
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> <a href="https://www.intechopen.com/online-first/deep-learning-exemplar-studies-in-natural-language-processing-and-computer-vision" target="blank">
@@ -246,6 +252,12 @@ IEEE Conference on Signal Processing and Communications Applications (SIU) 2014,
 
 <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Theses</font></b>
 
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
+<a href="/assets/docs/Publications/SemihOrhan_PhDThesis.pdf" target="blank">
+Semantic Segmentation of Panoramic Images and Panoramic Image Based Outdoor Visual Localization</a><br>
+Semih Orhan, 2022, Ph.D. Thesis, Izmir Institute of Technology, Izmir, Turkey.
+</font></p>
+ 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
 <a href="/assets/docs/Publications/Unver_MScThesis.pdf" target="blank">
 Improvement on Motion-guided Siamese Object Tracking Networks using Prioritized Windows</a><br>
