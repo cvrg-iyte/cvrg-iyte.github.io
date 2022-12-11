@@ -108,6 +108,12 @@ Multi-view Structure-from-Motion for Hybrid Camera Scenarios</a>
 <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Book Chapters</font></b>
 <br>
 
+ <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> <a href="https://www.routledge.com/Diagnosis-of-Neurological-Disorders-based-on-Deep-Learning-Techniques/Chaki/p/book/9781032325231" target="blank">
+ Dementia Detection with Deep Networks Using Multi-Modal Image Data </a><br>
+ <i>Yigit, A., Isik, Z., Bastanlar, Y. </i><br>
+ <i>in</i> Diagnosis of Neurological Disorders based on Deep Learning Techniques, Jyotismita Chaki (Editor), to be published May 2023. 
+</font>
+ 
  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> <a href="https://www.intechopen.com/online-first/81791" target="blank">
  Self-Supervised Contrastive Representation Learning in Computer Vision </a><br>
  <i>Bastanlar, Y., Orhan, S., </i><br>
