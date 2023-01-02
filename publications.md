@@ -141,7 +141,7 @@ Multi-view Structure-from-Motion for Hybrid Camera Scenarios</a>
 <br>
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
-<a href="https://arxiv.org/abs/2203.16945" target="blank">
+<a href="https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Orhan_Semantic_Pose_Verification_for_Outdoor_Visual_Localization_With_Self-Supervised_Contrastive_CVPRW_2022_paper.pdf" target="blank">
 Semantic Pose Verification for Outdoor Visual Localization with Self-supervised Contrastive Learning </a>
 <br><i>Orhan, S., Guerrero, J.J., Bastanlar, Y.</i>
 <br>CVPR 2022 Workshop on Learning with Limited Labelled Data for Image and Video Understanding, 20 June 2022.
