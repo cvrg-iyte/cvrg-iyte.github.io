@@ -32,6 +32,8 @@ Group targets to conduct research on the cutting-edge topics of computer vision 
 
 
 #### Recent News
+* Mar, 2023 - SIVP journal paper published. "Cut-in maneuver detection with self-supervised contrastive video
+representation learning" in [Signal, Image and Video Processing, Springer](https://link.springer.com/article/10.1007/s11760-023-02512-3).
 * Apr, 2022 - CVPR 2022 Workshop paper accepted. "Semantic Pose Verification for Outdoor Visual Localization with Self-supervised Contrastive Learning" in [CVPR 2022 Workshop on Learning with Limited Labelled Data for Image and Video Understanding](https://arxiv.org/abs/2203.16945).
 * Mar, 2022 - SIVP journal paper published. "Dementia diagnosis by ensemble deep neural networks using FDG-PET scans" in [Signal, Image and Video Processing, Springer](https://rdcu.be/cJnfH).
-* Jan, 2022 - SEMIT 2022 paper accepted. "Monocular Vision-based Prediction of Cut-in Maneuvers with LSTM Networks" in [Int Conf on Science, Engineering Management and Information Technology](/assets/docs/Publications/Nalcakan-Bastanlar-SEMIT.pdf).
+
