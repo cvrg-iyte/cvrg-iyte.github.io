@@ -14,7 +14,7 @@ This material is presented to ensure timely dissemination of scholarly and techn
 <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Journal Publications</font></b>
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
- <a href="https://link.springer.com/article/10.1007/s11760-023-02512-3" target="blank">Cut-in Maneuver Detection with Self-supervised Contrastive Video Representation Learning</a><br>
+ <a href="https://rdcu.be/c6B25" target="blank">Cut-in Maneuver Detection with Self-supervised Contrastive Video Representation Learning</a><br>
  <i>Nalcakan, Y., Bastanlar, Y.</i><br>
  Signal, Image and Video Processing, 2023, DOI:10.1007/s11760-023-02512-3
 </font>
