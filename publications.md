@@ -108,10 +108,10 @@ Multi-view Structure-from-Motion for Hybrid Camera Scenarios</a>
 <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Book Chapters</font></b>
 <br>
 
- <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> <a href="https://www.routledge.com/Diagnosis-of-Neurological-Disorders-based-on-Deep-Learning-Techniques/Chaki/p/book/9781032325231" target="blank">
+ <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> <a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003315452-12/dementia-detection-deep-networks-using-multi-modal-image-data-altu%C4%9F-yi%C4%9Fit-zerrin-i%C5%9F%C4%B1k-yal%C4%B1n-ba%C5%9Ftanlar" target="blank">
  Dementia Detection with Deep Networks Using Multi-Modal Image Data </a><br>
  <i>Yigit, A., Isik, Z., Bastanlar, Y. </i><br>
- <i>in</i> Diagnosis of Neurological Disorders based on Deep Learning Techniques, Jyotismita Chaki (Editor), to be published May 2023. 
+ <i>in</i> <a href="https://www.taylorfrancis.com/books/edit/10.1201/9781003315452/diagnosis-neurological-disorders-based-deep-learning-techniques-jyotismita-chaki?refId=a8167b42-8243-4e4e-beb7-5df49459bf5f&context=ubx" target="blank">Diagnosis of Neurological Disorders based on Deep Learning Techniques</a>, Jyotismita Chaki (Editor), Taylor & Francis, 2023. 
 </font>
  
  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> <a href="https://www.intechopen.com/online-first/81791" target="blank">
