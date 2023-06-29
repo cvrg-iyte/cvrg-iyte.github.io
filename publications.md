@@ -16,13 +16,13 @@ This material is presented to ensure timely dissemination of scholarly and techn
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
  <a href="https://rdcu.be/c6B25" target="blank">Cut-in Maneuver Detection with Self-supervised Contrastive Video Representation Learning</a><br>
  <i>Nalcakan, Y., Bastanlar, Y.</i><br>
- Signal, Image and Video Processing, 2023, DOI:10.1007/s11760-023-02512-3
+ Signal, Image and Video Processing, vol.17, pp.2915-2923, 2023. DOI:10.1007/s11760-023-02512-3
 </font>
   
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
 <a href="https://rdcu.be/cJnfH" target="blank">Dementia Diagnosis by Ensemble Deep Neural Networks using FDG-PET Scans</a><br>
  <i>Yigit, A., Bastanlar, Y., Isik, Z.</i><br>
- Signal, Image and Video Processing, 2022, DOI:10.1007/s11760-022-02185-4
+ Signal, Image and Video Processing, vol.16, pp.2203-2210, 2022. DOI:10.1007/s11760-022-02185-4
 </font>
  
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
@@ -35,7 +35,7 @@ This material is presented to ensure timely dissemination of scholarly and techn
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
 <a href="https://rdcu.be/ct4IC" target="blank">Semantic Segmentation of Outdoor Panoramic Images</a><br>
  <i>Orhan, S., Bastanlar, Y.</i><br>
- Signal, Image and Video Processing, 2021, DOI:10.1007/s11760-021-02003-3
+ Signal, Image and Video Processing, vol.16, pp.643-650, 2022. DOI:10.1007/s11760-021-02003-3
  <br>To download the image dataset used in this paper, click <a href="https://github.com/semihorhan/semseg-outdoor-pano" target="blank">here</a>.
 </font>
   
