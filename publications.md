@@ -141,10 +141,10 @@ Multi-view Structure-from-Motion for Hybrid Camera Scenarios</a>
 <br>
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
-<a href="/assets/docs/Publications/Nalcakan_Bastanlar_INISTA2023.pdf" target="blank">
-Lane Change Detection with an Ensemble of Image-based and Video-based Deep Learning Models </a>
+<!-- <a href="/assets/docs/Publications/Nalcakan_Bastanlar_INISTA2023.pdf" target="blank"> -->
+Lane Change Detection with an Ensemble of Image-based and Video-based Deep Learning Models
 <br><i>Nalcakan, Y., Bastanlar, Y.</i>
-<br><b>submitted to</b> Innovations in Intelligent Systems and Applications Conference, 2023.
+<br><b>accepted for</b> Innovations in Intelligent Systems and Applications Conference (ASYU 2023), 11-13 October 2023.
  
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
 <a href="https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Orhan_Semantic_Pose_Verification_for_Outdoor_Visual_Localization_With_Self-Supervised_Contrastive_CVPRW_2022_paper.pdf" target="blank">
