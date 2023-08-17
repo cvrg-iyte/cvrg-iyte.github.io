@@ -264,6 +264,18 @@ IEEE Conference on Signal Processing and Communications Applications (SIU) 2014,
 
 <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Theses</font></b>
 
+<!-- <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
+<a href="/assets/docs/Publications/YagizNalcakan_PhDThesis.pdf" target="blank">
+Classification of Maneuvers of Vehicles in Front for Driver Assistance Systems</a><br>
+Yagiz Nalcakan, 2023, Ph.D. Thesis, Izmir Institute of Technology, Izmir, Turkey.
+</font></p>  -->
+
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
+<a href="/assets/docs/Publications/Master_Thesis_Burak_Yoruk_2August.pdf" target="blank">
+Row Following and Altitude Estimation with UAV Images for Agricultural Fields</a><br>
+Burak Yoruk, 2023, M.Sc. Thesis, Izmir Institute of Technology, Izmir, Turkey.
+</font></p>
+
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
 <a href="/assets/docs/Publications/SemihOrhan_PhDThesis.pdf" target="blank">
 Semantic Segmentation of Panoramic Images and Panoramic Image Based Outdoor Visual Localization</a><br>
