@@ -128,7 +128,7 @@ Multi-view Structure-from-Motion for Hybrid Camera Scenarios</a>
 
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
- Introduction to Machine Learning<br>
+ <b>Introduction to Machine Learning</b><br>
  <i>Bastanlar, Y., Ozuysal, M.</i><br>
  <i>in</i> <a href="http://www.amazon.com/miRNomics-MicroRNA-Computational-Analysis-Molecular/dp/1627037470" target="blank"> miRNomics: MicroRNA Biology and Computational Analysis</a>, Malik Yousef, Jens Allmer (Editors), Springer Protocols, Humana Press. 2014 edition.
  </font></p>
