@@ -141,7 +141,7 @@ Multi-view Structure-from-Motion for Hybrid Camera Scenarios</a>
 <br>
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
-<!-- <a href="/assets/docs/Publications/Nalcakan_Bastanlar_INISTA2023.pdf" target="blank"> -->
+<!-- <a href="/assets/docs/Publications/Nalcakan_Bastanlar_ASYU2023_rev4.pdf" target="blank"> -->
 Lane Change Detection with an Ensemble of Image-based and Video-based Deep Learning Models
 <br><i>Nalcakan, Y., Bastanlar, Y.</i>
 <br><b>accepted for</b> Innovations in Intelligent Systems and Applications Conference (ASYU 2023), 11-13 October 2023.
