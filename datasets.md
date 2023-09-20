@@ -55,7 +55,7 @@ Related publication: <a href="/assets/docs/Publications/Tekeli_Bastanlar_TJEECS_
 3) Fisheye video dataset for vehicle classification </b></font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
 
 The dataset consists of more than 100 .avi files and can be downloaded as rar files (~200 MB each) using the link given
-<a href="https://drive.google.com/folderview?id=0B-WJ94ZX9H02TGlIZFNFNHBOV2c&amp;usp=sharing" target="blank">here</a>.<br>
+<a href="https://drive.google.com/drive/folders/0B-WJ94ZX9H02TGlIZFNFNHBOV2c?resourcekey=0-qNT4B_nHFo4yj_bHl5cA-w&usp=sharing" target="blank">here</a>.<br>
 Videos containing cars, vans, motorcycles or pedestrians. Some videos contain more than one object (some with occlusions), they are mentioned in the spreadsheet provided. <br>
 
 <br>
@@ -69,11 +69,12 @@ copyright:IEEE  https://ieeexplore.ieee.org/document/8317588/
 
 The dataset can be downloaded via three different zip files using the links given below.<br>
 
-<a href="https://drive.google.com/folderview?id=0B-WJ94ZX9H02OFF5VzZ3bE5URHc&amp;usp=sharing" target="blank"> Set 1: contains 124 videos for cars (in 5 parts, ~270 MB each).</a> <br>
+<a href="https://drive.google.com/drive/folders/0B-WJ94ZX9H02OFF5VzZ3bE5URHc?resourcekey=0-1s8kB3kln--iGRzc9v-gpA&usp=sharing" target="blank"> Set 1: contains 124 videos for cars (in 5 parts, ~270 MB each).</a> <br>
 
-<a href="https://drive.google.com/folderview?id=0B-WJ94ZX9H02dkNWVlJyNXhnVVE&amp;usp=sharing" target="blank"> Set 2: contains 104 videos for vans (minibus) (in 4 parts, ~290 MB each).</a><br>
 
-<a href="https://drive.google.com/folderview?id=0B-WJ94ZX9H02X1p4cnlmeUJPdm8&amp;usp=sharing" target="blank"> Set 3: contains 49 videos for motorcycles (in 2 parts, ~270 MB each).</a><br>
+<a href="https://drive.google.com/drive/folders/0B-WJ94ZX9H02dkNWVlJyNXhnVVE?resourcekey=0-CjMJXkzK2fHxYwUnTb9Gfg&usp=sharing" target="blank"> Set 2: contains 104 videos for vans (minibus) (in 4 parts, ~290 MB each).</a><br>
+
+<a href="https://drive.google.com/drive/folders/0B-WJ94ZX9H02X1p4cnlmeUJPdm8?resourcekey=0-8VepcjLKh_yDq8wN3ek2hg&usp=sharing" target="blank"> Set 3: contains 49 videos for motorcycles (in 2 parts, ~270 MB each).</a><br>
 
 <br>
 
