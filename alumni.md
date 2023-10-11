@@ -21,4 +21,6 @@ permalink: /members/alumni
 * Bahadır Mezgil (now working at Getir, Izmir)
 
 * Ünver Can Ünlü
+  
+* Burak Yörük (now working at Meshine Swarm Technologies)
 
