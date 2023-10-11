@@ -22,5 +22,5 @@ permalink: /members/alumni
 
 * Ünver Can Ünlü
   
-* Burak Yörük (now working at Meshine Swarm Technologies)
+* Burak Yörük (now working at Meshine Swarm Technologies, Izmir)
 
