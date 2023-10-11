@@ -32,8 +32,9 @@ Group targets to conduct research on the cutting-edge topics of computer vision 
 
 
 #### Recent News
+* Oct, 2023 - Paper presented in ASYU 2023. "Lane Change Detection with an Ensemble of Image-based and Video-based Deep Learning Models" in [Innovations in Intelligent Systems and Applications Conference (ASYU 2023), 11-13 October 2023](https://cvrg-iyte.github.io/assets/docs/Publications/Nalcakan_Bastanlar_ASYU2023_rev4.pdf).
+* May, 2023 - Book chapter published. "Dementia Detection with Deep Networks Using Multi-Modal Image Data" in [Diagnosis of Neurological Disorders Based on Deep Learning Techniques (CRC Press, Taylor & Francis Group)](https://www.taylorfrancis.com/books/edit/10.1201/9781003315452/diagnosis-neurological-disorders-based-deep-learning-techniques-jyotismita-chaki?refId=a8167b42-8243-4e4e-beb7-5df49459bf5f&context=ubx). 
 * Mar, 2023 - SIVP journal paper published. "Cut-in maneuver detection with self-supervised contrastive video
 representation learning" in [Signal, Image and Video Processing, Springer](https://rdcu.be/c6B25).
-* Apr, 2022 - CVPR 2022 Workshop paper accepted. "Semantic Pose Verification for Outdoor Visual Localization with Self-supervised Contrastive Learning" in [CVPR 2022 Workshop on Learning with Limited Labelled Data for Image and Video Understanding](https://arxiv.org/abs/2203.16945).
-* Mar, 2022 - SIVP journal paper published. "Dementia diagnosis by ensemble deep neural networks using FDG-PET scans" in [Signal, Image and Video Processing, Springer](https://rdcu.be/cJnfH).
+
 
