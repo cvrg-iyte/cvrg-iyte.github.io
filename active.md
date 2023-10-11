@@ -21,4 +21,10 @@ permalink: /members/current-members
   email_address= "yagiznalcakan@iyte.edu.tr"
   content="I got my B.Sc. degree from [Trakya University](https://www.trakya.edu.tr/) in August 2015 and M.Sc. degree from [Istanbul University-Cerrahpasa](https://www.iuc.edu.tr/) in February 2019, both in Computer Engineering. I started my Ph.D. in February 2019 at the Department of Computer Engineering, [Izmir Institute of Technology](http://iyte.edu.tr) and I've been working there as a Research Assistant since February 2020. In the Spring term of the 2021-2022 academic year, I spent six months at [Seoul National University](https://en.snu.ac.kr/) as a visiting researcher in [Vehicle Dynamics & Control Laboratory](https://vdcl.snu.ac.kr/) with TUBİTAK 2214-a Scholarship. My Ph.D. research is on 'Prediction of intended maneuvers of surrounding vehicles'. "%}
 
+{% include spotlight-inline.html
+  name="Kutay Özbay"
+  ptitle= " MSc Candidate"
+  cover-image= "/assets/img/people/--.jpg"
+  email_address= "kutayozbay@iyte.edu.tr"
+  content="I got my B.Sc. degree from [Computer Engineering, Izmir Institute of Technology](https://ceng.iyte.edu.tr/) in June 2023. My research is on 'city-scale visual localization with outdoor panoramic images'. "%}
 
