@@ -24,7 +24,7 @@ permalink: /members/current-members
 {% include spotlight-inline.html
   name="Kutay Özbay"
   ptitle= " MSc Candidate"
-  cover-image= "/assets/img/people/--.jpg"
+  cover-image= "/assets/img/people/kutay_ozbay.png"
   email_address= "kutayozbay@iyte.edu.tr"
   content="I got my B.Sc. degree from [Computer Engineering, Izmir Institute of Technology](https://ceng.iyte.edu.tr/) in June 2023. My research is on 'city-scale visual localization with outdoor panoramic images'. "%}
 
