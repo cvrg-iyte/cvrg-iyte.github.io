@@ -14,6 +14,12 @@ This material is presented to ensure timely dissemination of scholarly and techn
 <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Journal Publications</font></b>
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
+ <a href="https://www.sciencedirect.com/science/article/pii/S2590137024000037" target="blank">Development of chrono-spectral gold nanoparticle growth based plasmonic biosensor platform</a><br>
+ <i>Sozmen, A.B., Elveren, B., Erdogan, D., Mezgil, B., Bastanlar, Y., Yildiz, U.H., Arslan Yildiz, A.</i><br>
+Biosensors and Bioelectronics: X, Jan 2024. DOI:10.1016/j.biosx.2024.100439
+</font>
+ 
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
  <a href="https://rdcu.be/c6B25" target="blank">Cut-in Maneuver Detection with Self-supervised Contrastive Video Representation Learning</a><br>
  <i>Nalcakan, Y., Bastanlar, Y.</i><br>
  Signal, Image and Video Processing, vol.17, pp.2915-2923, 2023. DOI:10.1007/s11760-023-02512-3
