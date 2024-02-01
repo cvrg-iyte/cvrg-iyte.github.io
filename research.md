@@ -11,15 +11,15 @@ toc: true
 <br>
 Guiding Robotic Endoscope via Surgical Instrument Detection and Tracking [2023-...].
 <br>
-
-<img src="/assets/img/71_edited.jpg" width="750">
+<br>
+<img src="/assets/img/71_edited.jpg" width="780">
 <br>
 Panoramic Image Based Localization Improved with Spherical Representations and Semantic Descriptors [2020-...].
 <br>
 
 <br>
 ### Completed Projects
-<br>
+
 <img src="/assets/img/maneuver-prediction.png" width="750">
 <br>
 Prediction of Intended Maneuvers of Surrounding Vehicles for Driver Assistance Systems [2019-2023].
