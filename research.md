@@ -7,12 +7,6 @@ toc: true
 <br>
 ### Ongoing Projects
 
-<img src="/assets/img/maneuver-prediction.png" width="750">
-<br>
-Prediction of Intended Maneuvers of Surrounding Vehicles for Driver Assistance Systems [2019-...].
-<br>
-
-<br>
 <img src="/assets/img/research/visual-place-recognition.png" width="750">
 <br>
 Visual Place Recognition with a Perspective Query Image and a Database of Panoramic Images [2019-...].
@@ -20,6 +14,11 @@ Visual Place Recognition with a Perspective Query Image and a Database of Panora
 
 <br>
 ### Completed Projects
+<br>
+<img src="/assets/img/maneuver-prediction.png" width="750">
+<br>
+Prediction of Intended Maneuvers of Surrounding Vehicles for Driver Assistance Systems [2019-2023].
+<br>
 
 <br>
 <img src="/assets/img/research/localization.png" width="600">
