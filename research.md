@@ -4,9 +4,8 @@ title: "Research"
 excerpt: "CVRG - Research"
 toc: true
 ---
-<br>
 ### Ongoing Projects
-
+<br>
 <img src="/assets/img/research/endoscope.png" width="750">
 <br>
 Guiding Robotic Endoscope via Surgical Instrument Detection and Tracking [2023-...].
