@@ -14,7 +14,7 @@ Guiding Robotic Endoscope via Surgical Instrument Detection and Tracking [2023-.
 
 <img src="/assets/img/research/visual-place-recognition.png" width="750">
 <br>
-Visual Place Recognition with a Perspective Query Image and a Database of Panoramic Images [2019-...].
+Panoramic Image Based Localization Improved with Spherical Representations and Semantic Descriptors [2020-...].
 <br>
 
 <br>
