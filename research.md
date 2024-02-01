@@ -7,7 +7,7 @@ toc: true
 <br>
 ### Ongoing Projects
 
-<img src="/assets/img/research/aaa.png" width="750">
+<img src="/assets/img/research/endoscope.png" width="750">
 <br>
 Guiding Robotic Endoscope via Surgical Instrument Detection and Tracking [2023-...].
 <br>
