@@ -7,6 +7,11 @@ toc: true
 <br>
 ### Ongoing Projects
 
+<img src="/assets/img/research/aaa.png" width="750">
+<br>
+Guiding Robotic Endoscope via Surgical Instrument Detection and Tracking [2023-...].
+<br>
+
 <img src="/assets/img/research/visual-place-recognition.png" width="750">
 <br>
 Visual Place Recognition with a Perspective Query Image and a Database of Panoramic Images [2019-...].
