@@ -12,7 +12,7 @@ toc: true
 Guiding Robotic Endoscope via Surgical Instrument Detection and Tracking [2023-...].
 <br>
 
-<img src="/assets/img/research/visual-place-recognition.png" width="750">
+<img src="/assets/img/71_edited.jpg" width="750">
 <br>
 Panoramic Image Based Localization Improved with Spherical Representations and Semantic Descriptors [2020-...].
 <br>
