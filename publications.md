@@ -13,6 +13,14 @@ This material is presented to ensure timely dissemination of scholarly and techn
 
 <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Journal Publications</font></b>
 
+<!-- 
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
+ <a href="..." target="blank">OrganoLabeling: Quick and accurate annotation tool for organoid images</a><br>
+ <i>Kahveci, B., Polatli, E., Bastanlar, Y., Guven, S.</i><br>
+Bioengineering & Translational Medicine, Wiley, 2024. DOI:
+</font>
+-->
+
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
  <a href="https://www.sciencedirect.com/science/article/pii/S2590137024000037" target="blank">Development of chrono-spectral gold nanoparticle growth based plasmonic biosensor platform</a><br>
  <i>Sozmen, A.B., Elveren, B., Erdogan, D., Mezgil, B., Bastanlar, Y., Yildiz, U.H., Arslan Yildiz, A.</i><br>
