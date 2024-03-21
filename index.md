@@ -3,7 +3,7 @@ layout: home
 cover-images:
   - image-link: /assets/img/research/endoscope.png
     image-position: center
-    url: https://cvrg-iyte.github.io/maneuver-prediction
+    url: https://cvrg-iyte.github.io/research
     caption:
       position: center
       text: >
@@ -11,7 +11,7 @@ cover-images:
 
   - image-link: /assets/img/71_edited.jpg
     image-position: center
-    url: https://cvrg-iyte.github.io/panaromic-image-localization
+    url: https://cvrg-iyte.github.io/research
     caption:
       position: center
       text: >
@@ -19,7 +19,7 @@ cover-images:
         
   - image-link: /assets/img/research/maneuver-prediction.png
     image-position: center
-    url: https://cvrg-iyte.github.io/maneuver-prediction
+    url: https://cvrg-iyte.github.io/research
     caption:
       position: center
       text: >
