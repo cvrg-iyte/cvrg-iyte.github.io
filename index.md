@@ -7,7 +7,7 @@ cover-images:
     caption:
       position: center
       text: >
-        ## Prediction of Intended Maneuvers of Surrounding Vehicles for Driver Assistance Systems
+        ## Guiding Robotic Endoscope via Surgical Instrument Detection and Tracking
 
   - image-link: /assets/img/71_edited.jpg
     image-position: center
