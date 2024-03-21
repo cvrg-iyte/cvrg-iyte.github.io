@@ -1,7 +1,7 @@
 ---
 layout: home
 cover-images:
-  - image-link: /assets/img/research/endoscope.png
+  - image-link: /assets/img/research/endoscope2.png
     image-position: center
     url: https://cvrg-iyte.github.io/research
     caption:
