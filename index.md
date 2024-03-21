@@ -1,6 +1,14 @@
 ---
 layout: home
 cover-images:
+  - image-link: /assets/img/research/endoscope.png
+    image-position: center
+    url: https://cvrg-iyte.github.io/maneuver-prediction
+    caption:
+      position: center
+      text: >
+        ## Prediction of Intended Maneuvers of Surrounding Vehicles for Driver Assistance Systems
+
   - image-link: /assets/img/71_edited.jpg
     image-position: center
     url: https://cvrg-iyte.github.io/panaromic-image-localization
@@ -16,7 +24,7 @@ cover-images:
       position: center
       text: >
         ## Prediction of Intended Maneuvers of Surrounding Vehicles for Driver Assistance Systems
-
+    
 cover-image-controls: false
 cover-image-indicators: true
 ---
