@@ -16,8 +16,10 @@ This material is presented to ensure timely dissemination of scholarly and techn
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
  <a href="https://pubs.acs.org/doi/10.1021/acsomega.4c06450" target="blank">OrganoLabeler: A Quick and Accurate Annotation Tool for Organoid Images</a><br>
  <i>Kahveci, B., Polatli, E., Bastanlar, Y., Guven, S.</i><br>
-ACS Omega, 2024. DOI:10.1021/acsomega.4c06450
+ACS Omega, 9, 46, 46117-46128, 2024. DOI:10.1021/acsomega.4c06450
 </font>
+
+
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
  <a href="https://www.sciencedirect.com/science/article/pii/S2590137024000037" target="blank">Development of chrono-spectral gold nanoparticle growth based plasmonic biosensor platform</a><br>
@@ -275,6 +277,12 @@ IEEE Conference on Signal Processing and Communications Applications (SIU) 2014,
 
 
 <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Theses</font></b>
+
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
+<a href="/assets/docs/Publications/ErsinCine_PhDThesis.pdf" target="blank">
+Efficient Image Matching using Hyperdimensional Computing and Group Testing</a><br>
+Ersin Cine, 2024, Ph.D. Thesis, Izmir Institute of Technology, Izmir, Turkey.
+</font></p>
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
 <a href="/assets/docs/Publications/YagizNalcakan_PhDThesis.pdf" target="blank">
