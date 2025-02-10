@@ -13,13 +13,19 @@ This material is presented to ensure timely dissemination of scholarly and techn
 
 <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Journal Publications</font></b>
 
+<!--
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
+ <a href="https://pubs.acs.org/doi/10.1021/acsomega.4c06450" target="blank">GGNN: Group-Guided Nearest Neighbors for
+Efficient Image Matching</a><br>
+ <i>Cine, E., Bastanlar, Y., Ozuysal, M.</i><br>
+Pattern Analysis and Applications, 2025. DOI:
+</font> -->
+
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
  <a href="https://pubs.acs.org/doi/10.1021/acsomega.4c06450" target="blank">OrganoLabeler: A Quick and Accurate Annotation Tool for Organoid Images</a><br>
  <i>Kahveci, B., Polatli, E., Bastanlar, Y., Guven, S.</i><br>
 ACS Omega, 9, 46, 46117-46128, 2024. DOI:10.1021/acsomega.4c06450
 </font>
-
-
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
  <a href="https://www.sciencedirect.com/science/article/pii/S2590137024000037" target="blank">Development of chrono-spectral gold nanoparticle growth based plasmonic biosensor platform</a><br>
@@ -277,6 +283,12 @@ IEEE Conference on Signal Processing and Communications Applications (SIU) 2014,
 
 
 <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Theses</font></b>
+
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
+<a href="/assets/docs/Publications/DidemGenc_PhdThesis_final.pdf" target="blank">
+Improving Low-budget Semi-supervised Approaches for Model Extraction Attacks</a><br>
+Didem Genc, 2024, Ph.D. Thesis, Izmir Institute of Technology, Izmir, Turkey.
+</font></p>
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
 <a href="/assets/docs/Publications/ErsinCine_PhDThesis.pdf" target="blank">
