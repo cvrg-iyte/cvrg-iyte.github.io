@@ -40,7 +40,7 @@ Group targets to conduct research on the cutting-edge topics of computer vision 
 
 
 #### Recent News
-<!-- * Mar, 2025 - PAA journal paper published. "[GGNN: Group-Guided Nearest Neighbors for
+<!-- * April, 2025 - PAA journal paper published. "[GGNN: Group-Guided Nearest Neighbors for
 Efficient Image Matching](https://)" in Pattern Analysis and Applications, Springer. -->
 * Nov, 2024 - Journal paper published. "[OrganoLabeler: Quick and accurate annotation tool for organoid images](https://pubs.acs.org/doi/10.1021/acsomega.4c06450)" in ACS Omega.
 * Oct, 2023 - Best Paper Award (3rd place) received for the paper presented in ASYU 2023. "[Lane Change Detection with an Ensemble of Image-based and Video-based Deep Learning Models](https://cvrg-iyte.github.io/assets/docs/Publications/Nalcakan_Bastanlar_ASYU2023_rev4.pdf)" in [Innovations in Intelligent Systems and Applications Conference (ASYU 2023), 11-13 October 2023](http://asyu.inista.org/).
