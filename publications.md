@@ -13,13 +13,13 @@ This material is presented to ensure timely dissemination of scholarly and techn
 
 <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Journal Publications</font></b>
 
-<!--
+
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
- <a href="https://pubs.acs.org/doi/10.1021/acsomega.4c06450" target="blank">GGNN: Group-Guided Nearest Neighbors for
+ <a href="https://rdcu.be/ejZzt" target="blank">GGNN: Group-Guided Nearest Neighbors for
 Efficient Image Matching</a><br>
  <i>Cine, E., Bastanlar, Y., Ozuysal, M.</i><br>
-Pattern Analysis and Applications, 2025. DOI:
-</font> -->
+Pattern Analysis and Applications, 28:91, 2025. DOI: https://doi.org/10.1007/s10044-025-01462-5
+</font>
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
  <a href="https://pubs.acs.org/doi/10.1021/acsomega.4c06450" target="blank">OrganoLabeler: A Quick and Accurate Annotation Tool for Organoid Images</a><br>
