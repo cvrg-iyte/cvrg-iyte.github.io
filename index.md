@@ -40,11 +40,12 @@ Group targets to conduct research on the cutting-edge topics of computer vision 
 
 
 #### Recent News
-* April, 2025 - PAA journal paper published. "[GGNN: Group-Guided Nearest Neighbors for
-Efficient Image Matching](https://rdcu.be/ejZzt)" in Pattern Analysis and Applications, Springer.
-* Nov, 2024 - Journal paper published. "[OrganoLabeler: Quick and accurate annotation tool for organoid images](https://pubs.acs.org/doi/10.1021/acsomega.4c06450)" in ACS Omega.
-* Oct, 2023 - Best Paper Award (3rd place) received for the paper presented in ASYU 2023. "[Lane Change Detection with an Ensemble of Image-based and Video-based Deep Learning Models](https://cvrg-iyte.github.io/assets/docs/Publications/Nalcakan_Bastanlar_ASYU2023_rev4.pdf)" in [Innovations in Intelligent Systems and Applications Conference (ASYU 2023), 11-13 October 2023](http://asyu.inista.org/).
-<!-- * May, 2023 - Book chapter published. "Dementia Detection with Deep Networks Using Multi-Modal Image Data" in [Diagnosis of Neurological Disorders Based on Deep Learning Techniques (CRC Press, Taylor & Francis Group)](https://www.taylorfrancis.com/books/edit/10.1201/9781003315452/diagnosis-neurological-disorders-based-deep-learning-techniques-jyotismita-chaki?refId=a8167b42-8243-4e4e-beb7-5df49459bf5f&context=ubx). -->
+<!--* Nov, 2025 - Journal paper published. "[BrAIn: A comprehensive artificial intelligence-based morphology analysis system for brain organoids and neuroscience](https://pubs.acs.org/doi/10.1021/acsomega.4c06450)" in Bioengineering & Translational Medicine, Wiley (Q1). -->
+* August, 2025 - A paper will be presented in ASYU 2025. "LoRA+ID: Enhancing Identity Preservation in Generative Models through Face-Conditioned LoRA Training" in [Innovations in Intelligent Systems and Applications Conference (ASYU 2025), 10-12 September 2025](http://asyu.inista.org/).
+* April, 2025 - PAA journal paper published. "[GGNN: Group-Guided Nearest Neighbors for Efficient Image Matching](https://rdcu.be/ejZzt)" in Pattern Analysis and Applications, Springer (Q2).
+* Nov, 2024 - Journal paper published. "[OrganoLabeler: Quick and accurate annotation tool for organoid images](https://pubs.acs.org/doi/10.1021/acsomega.4c06450)" in ACS Omega (Q1).
+<!--
+ * May, 2023 - Book chapter published. "Dementia Detection with Deep Networks Using Multi-Modal Image Data" in [Diagnosis of Neurological Disorders Based on Deep Learning Techniques (CRC Press, Taylor & Francis Group)](https://www.taylorfrancis.com/books/edit/10.1201/9781003315452/diagnosis-neurological-disorders-based-deep-learning-techniques-jyotismita-chaki?refId=a8167b42-8243-4e4e-beb7-5df49459bf5f&context=ubx). -->
 
 
 
