@@ -31,6 +31,6 @@ permalink: /members/current-members
 {% include spotlight-inline.html
   name="Cüneyd Çelik"
   ptitle= " MSc Candidate"
-  cover-image= "/assets/img/people/cuneyd_celik.jpg"
+  cover-image= "/assets/img/people/cüneyd_celik.jpg"
   email_address= "cuneydcelik@iyte.edu.tr"
   content="I got my B.Sc. degree from [Computer Engineering, Izmir Institute of Technology](https://ceng.iyte.edu.tr/) in June 2024. My research is on 'use of generative AI techniques for automated car vision sensor data synthesis'. "%}
