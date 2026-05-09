@@ -19,11 +19,18 @@ permalink: /members/current-members
   ptitle= " MSc Candidate"
   cover-image= "/assets/img/people/kutay_ozbay.png"
   email_address= "kutayozbay@iyte.edu.tr"
-  content="I got my B.Sc. degree from [Computer Engineering, Izmir Institute of Technology](https://ceng.iyte.edu.tr/) in June 2023. My research is on 'city-scale visual localization with outdoor panoramic images'. "%}
+  content="I got my B.Sc. degree from [Computer Engineering, Izmir Institute of Technology](https://ceng.iyte.edu.tr/) in June 2023. My research is on 'performance metrics for parameter efficient fine-tuning and adapter methods for generative visison models'. "%}
 
 {% include spotlight-inline.html
   name="Metehan Seyran"
   ptitle= " MSc Candidate"
   cover-image= "/assets/img/people/metehan_seyran.jpg"
   email_address= "metehanseyran@iyte.edu.tr"
-  content="I got my B.Sc. degree from Computer Engineering and a minor in Applied Mathematics from [Istanbul Technical University](https://itu.edu.tr/). I started studying for a Master's degree in Computer Engineering at the Izmir Institute of Technology in September 2023. My research is about the detection and tracking of surgical instruments for endoscope guidance. "%}
+  content="I got my B.Sc. degree from Computer Engineering and a minor in Applied Mathematics from [Istanbul Technical University](https://itu.edu.tr/). I started studying for a Master's degree in Computer Engineering at the Izmir Institute of Technology in September 2023. My research is about the detection and tracking of surgical instruments for automated endoscope guidance. "%}
+
+{% include spotlight-inline.html
+  name="Cüneyd Çelik"
+  ptitle= " MSc Candidate"
+  cover-image= "/assets/img/people/cuneyd_celik.jpg"
+  email_address= "cuneydcelik@iyte.edu.tr"
+  content="I got my B.Sc. degree from [Computer Engineering, Izmir Institute of Technology](https://ceng.iyte.edu.tr/) in June 2024. My research is on 'use of generative AI techniques for automated car vision sensor data synthesis'. "%}
