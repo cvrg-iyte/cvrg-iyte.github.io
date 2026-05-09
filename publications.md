@@ -14,14 +14,19 @@ This material is presented to ensure timely dissemination of scholarly and techn
 <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Journal Publications</font></b>
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
+ <a href="https://www.sciencedirect.com/science/article/pii/S2215098626000972" target="blank">Hysteresis modeling of magnetorheological fluid-based (MR) brakes with deep learning</a><br>
+ <i>Kucukoglu, S.F., Bastanlar, Y., Dede, M.I.C.</i><br>
+Engineering Science and Technology, an International Journal, Volume 78, June 2026, 102371. DOI: https://doi.org/10.1002/btm2.70123
+</font>
+
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
  <a href="http://doi.org/10.1002/btm2.70123" target="blank">BrAIn: A comprehensive artificial intelligence-based morphology analysis system for brain organoids and neuroscience</a><br>
  <i>Kahveci, B., Polatli, E., Evranos, A.E., Güner, H., Karakülah, G., Bastanlar, Y., Güven, S.</i><br>
 Bioengineering & Translational Medicine, 12 March 2026. DOI:  https://doi.org/10.1002/btm2.70123
 </font>
  
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
- <a href="https://rdcu.be/ejZzt" target="blank">GGNN: Group-Guided Nearest Neighbors for
-Efficient Image Matching</a><br>
+ <a href="https://rdcu.be/ejZzt" target="blank">GGNN: Group-Guided Nearest Neighbors for Efficient Image Matching</a><br>
  <i>Cine, E., Bastanlar, Y., Ozuysal, M.</i><br>
 Pattern Analysis and Applications, 28:91, 2025. DOI: https://doi.org/10.1007/s10044-025-01462-5
 </font>
