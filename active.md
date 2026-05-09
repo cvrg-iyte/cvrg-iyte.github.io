@@ -19,7 +19,7 @@ permalink: /members/current-members
   ptitle= " MSc Candidate"
   cover-image= "/assets/img/people/kutay_ozbay.png"
   email_address= "kutayozbay@iyte.edu.tr"
-  content="I got my B.Sc. degree from [Computer Engineering, Izmir Institute of Technology](https://ceng.iyte.edu.tr/) in June 2023. My research is on 'performance metrics for parameter efficient fine-tuning and adapter methods for generative visison models'. "%}
+  content="I got my B.Sc. degree from [Computer Engineering, Izmir Institute of Technology](https://ceng.iyte.edu.tr/) in June 2023. My research is on 'performance metrics for parameter efficient fine-tuning and adapter methods for generative vision models'. "%}
 
 {% include spotlight-inline.html
   name="Metehan Seyran"
