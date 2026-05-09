@@ -8,7 +8,7 @@ permalink: /members/current-members
 
 
 {% include spotlight-inline.html
-  name="Dr. Yalin Bastanlar"
+  name="Dr. Yalın Baştanlar"
   ptitle= " Professor (Principal Investigator)"
   cover-image= "/assets/img/people/yalin-bastanlar.jpg"
   email_address= "yalinbastanlar@iyte.edu.tr"
