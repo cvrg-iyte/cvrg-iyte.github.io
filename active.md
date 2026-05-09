@@ -29,6 +29,13 @@ permalink: /members/current-members
   content="I got my B.Sc. degree from Computer Engineering and a minor in Applied Mathematics from [Istanbul Technical University](https://itu.edu.tr/). I started studying for a Master's degree in Computer Engineering at the Izmir Institute of Technology in September 2023. My research is about the detection and tracking of surgical instruments for automated endoscope guidance. "%}
 
 {% include spotlight-inline.html
+  name="Can Rollas"
+  ptitle= " MSc Candidate"
+  cover-image= "/assets/img/people/can_rollas.jpg"
+  email_address= "canrollas@iyte.edu.tr"
+  content="I got my B.Sc. degree from [Computer Engineering, Izmir Institute of Technology](https://ceng.iyte.edu.tr/) in 2024. My research is on 'analysis of wound areas using image processing and deep learning'. "%}
+  
+{% include spotlight-inline.html
   name="Cüneyd Çelik"
   ptitle= " MSc Candidate"
   cover-image= "/assets/img/people/cüneyd_celik.jpg"
