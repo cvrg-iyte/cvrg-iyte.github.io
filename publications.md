@@ -16,7 +16,7 @@ This material is presented to ensure timely dissemination of scholarly and techn
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
  <a href="https://www.sciencedirect.com/science/article/pii/S2215098626000972" target="blank">Hysteresis modeling of magnetorheological fluid-based (MR) brakes with deep learning</a><br>
  <i>Kucukoglu, S.F., Bastanlar, Y., Dede, M.I.C.</i><br>
-Engineering Science and Technology, an International Journal, Volume 78, June 2026, 102371. DOI: https://doi.org/10.1002/btm2.70123
+Engineering Science and Technology, an International Journal, Volume 78, June 2026, 102371. DOI: https://doi.org/10.1016/j.jestch.2026.102371
 </font>
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
