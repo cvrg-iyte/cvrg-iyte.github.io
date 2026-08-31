@@ -6,7 +6,6 @@ permalink: /members/current-members
 
 ## Members
 
-
 {% include spotlight-inline.html
   name="Dr. Yalın Baştanlar"
   ptitle= " Professor (Principal Investigator)"
