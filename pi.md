@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Current members
-permalink: /members/current-members
+permalink: /members/pi
 ---
 
 ## Principal Investigator
