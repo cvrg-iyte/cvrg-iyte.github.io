@@ -179,7 +179,7 @@ Multi-view Structure-from-Motion for Hybrid Camera Scenarios</a>
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
 Detection and Classification of Aerial Objects Under Multimodal, Multi Resolution and Small Object Conditions
 <br><i>Karimli, I., Kurt, A., Menekse, M.F., Uysal, H.T., Bastanlar, Y.</i>
-<br>Innovations in Intelligent Systems and Applications Conference (ASYU 2026), 9-11 September 2026.
+<br>Innovations in Intelligent Systems and Applications Conference (ASYU 2026), 9-11 Sept 2026.
  
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
 <a href="https://ieeexplore.ieee.org/document/11208451" target="blank">
