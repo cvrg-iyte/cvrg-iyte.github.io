@@ -13,6 +13,13 @@ This material is presented to ensure timely dissemination of scholarly and techn
 
 <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Journal Publications</font></b>
 
+<!-- <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
+ <a href="https://www.sciencedirect.com/science/article/pii/S2215098626000972" target="blank">A Deep Learning Based Perception System for Automated
+Endoscope Motion in a Surgical Robotic System </a><br>
+ <i>Seyran, M., Dede, M.I.C., Bastanlar, Y.</i><br>
+International Journal of Medical Robotics and Computer Assisted Surgery
+</font> -->
+ 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
  <a href="https://www.sciencedirect.com/science/article/pii/S2215098626000972" target="blank">Hysteresis modeling of magnetorheological fluid-based (MR) brakes with deep learning</a><br>
  <i>Kucukoglu, S.F., Bastanlar, Y., Dede, M.I.C.</i><br>
