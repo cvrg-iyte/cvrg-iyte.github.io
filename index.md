@@ -35,7 +35,7 @@ Group targets to conduct research on the cutting-edge topics of computer vision 
 * Vision for autonomous driving and ADAS
 * Visual object detection/classification
 * 3D reconstruction from images
-* Omnidirectional (fisheye and catadioptric) cameras
+* Omnidirectional cameras
 * Object tracking, Vision for robotics
 
 
