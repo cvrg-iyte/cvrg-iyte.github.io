@@ -23,7 +23,7 @@ cover-images:
     caption:
       position: center
       text: >
-        ## Benchmarking Personalization Methods for Text-to-Image Generation
+        ## Personalization Methods for Text-to-Image Generation
     
 cover-image-controls: false
 cover-image-indicators: true
