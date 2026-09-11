@@ -1,13 +1,13 @@
 ---
 layout: home
 cover-images:
-  - image-link: /assets/img/research/endoscope2.png
+  - image-link: /assets/img/research/PEFT2.png
     image-position: center
     url: https://cvrg-iyte.github.io/research
     caption:
       position: center
       text: >
-        ## Guiding Robotic Endoscope via Surgical Instrument Detection and Tracking
+        ## Personalization Methods for Text-to-Image Generation
 
   - image-link: /assets/img/71_edited.jpg
     image-position: center
@@ -16,14 +16,17 @@ cover-images:
       position: center
       text: >
         ## Panoramic Image Based Localization Improved with Spherical Representations and Semantic Descriptors
-        
-  - image-link: /assets/img/research/PEFT2.png
+    
+  - image-link: /assets/img/research/endoscope2.png
     image-position: center
     url: https://cvrg-iyte.github.io/research
     caption:
       position: center
       text: >
-        ## Personalization Methods for Text-to-Image Generation
+        ## Guiding Robotic Endoscope via Surgical Instrument Detection and Tracking
+
+        
+
     
 cover-image-controls: false
 cover-image-indicators: true
