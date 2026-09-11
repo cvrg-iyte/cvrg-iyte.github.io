@@ -11,9 +11,8 @@ toc: true
 Benchmarking Personalization Methods for Text-to-Image Generation [2025-..].
 <br>
 
-<br>
 ### Completed Projects
-
+<br>
 <img src="/assets/img/research/endoscope2.png" width="750">
 <br>
 Guiding Robotic Endoscope via Surgical Instrument Detection and Tracking [2023-2026].
