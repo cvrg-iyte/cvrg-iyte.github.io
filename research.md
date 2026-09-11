@@ -6,19 +6,26 @@ toc: true
 ---
 ### Ongoing Projects
 <br>
-<img src="/assets/img/research/endoscope.png" width="750">
+<img src="/assets/img/research/PEFT.png" width="750">
 <br>
-Guiding Robotic Endoscope via Surgical Instrument Detection and Tracking [2023-...].
-<br>
-<br>
-<img src="/assets/img/71_edited.jpg" width="780">
-<br>
-Panoramic Image Based Localization Improved with Spherical Representations and Semantic Descriptors [2020-...].
+Benchmarking Personalization Methods for Text-to-Image Generation [2025-..].
 <br>
 
 <br>
 ### Completed Projects
 
+<img src="/assets/img/research/endoscope.png" width="750">
+<br>
+Guiding Robotic Endoscope via Surgical Instrument Detection and Tracking [2023-2026].
+<br>
+
+<br>
+<img src="/assets/img/71_edited.jpg" width="780">
+<br>
+Panoramic Image Based Localization Improved with Spherical Representations and Semantic Descriptors [2020-2023].
+<br>
+
+<br>
 <img src="/assets/img/maneuver-prediction.png" width="750">
 <br>
 Prediction of Intended Maneuvers of Surrounding Vehicles for Driver Assistance Systems [2019-2023].
