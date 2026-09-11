@@ -17,13 +17,13 @@ cover-images:
       text: >
         ## Panoramic Image Based Localization Improved with Spherical Representations and Semantic Descriptors
         
-  - image-link: /assets/img/research/maneuver-prediction.png
+  - image-link: /assets/img/research/PEFT2.png
     image-position: center
     url: https://cvrg-iyte.github.io/research
     caption:
       position: center
       text: >
-        ## Prediction of Intended Maneuvers of Surrounding Vehicles for Driver Assistance Systems
+        ## Benchmarking Personalization Methods for Text-to-Image Generation
     
 cover-image-controls: false
 cover-image-indicators: true
