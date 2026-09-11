@@ -43,8 +43,8 @@ Group targets to conduct research on the cutting-edge topics of computer vision 
 
 
 #### Recent News
-* August, 2026 - Two papers to be presented in [ECCV 2026](https://eccv.ecva.net/Conferences/2026) Workshops. 1) "A Deep Learning Benchmark for Wound Tissue Segmentation" in Workshop on Medical Foundation Models and Benchmarks. 2) "Benchmarking Personalization Methods for Text-to-Image Generation: Dataset, Metrics, and a Comprehensive Evaluation Framework" in Workshop on Instance-Level Recognition and Generation.
-* August, 2026 - A paper to be presented in ASYU 2026. "Detection and Classification of Aerial Objects Under Multimodal, Multi Resolution and Small Object Conditions" in [Innovations in Intelligent Systems and Applications Conference (ASYU 2026), 9-11 September 2026](https://asyu2026.ozyegin.edu.tr/en).
+* August, 2026 - Two papers were presented in [ECCV 2026](https://eccv.ecva.net/Conferences/2026) Workshops. 1) "A Deep Learning Benchmark for Wound Tissue Segmentation" in Workshop on Medical Foundation Models and Benchmarks. 2) "Benchmarking Personalization Methods for Text-to-Image Generation: Dataset, Metrics, and a Comprehensive Evaluation Framework" in Workshop on Instance-Level Recognition and Generation.
+* August, 2026 - One paper was presented in ASYU 2026. "Detection and Classification of Aerial Objects Under Multimodal, Multi Resolution and Small Object Conditions" in [Innovations in Intelligent Systems and Applications Conference (ASYU 2026), 9-11 September 2026](https://asyu2026.ozyegin.edu.tr/en).
 * Apr, 2026 - Journal paper published. "[Hysteresis modeling of magnetorheological fluid-based (MR) brakes with deep learning](https://authors.elsevier.com/sd/article/S2215-0986(26)00097-2)" in Engineering Science and Technology, an International Journal (Q1).
 * Mar, 2026 - Journal paper published. "[BrAIn: A comprehensive artificial intelligence-based morphology analysis system for brain organoids and neuroscience](https://doi.org/10.1002/btm2.70123)" in Bioengineering & Translational Medicine, Wiley (Q1).
 
