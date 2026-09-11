@@ -10,7 +10,6 @@ toc: true
 Benchmarking Personalization Methods for Text-to-Image Generation [2025-..].
 <br>
 
-<br>
 <img src="/assets/img/research/wound_tissue.png" width="750">
 <br>
 Deep Learning Benchmark for Wound Tissue Segmentation [2025-..].
