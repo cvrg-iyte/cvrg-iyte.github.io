@@ -9,7 +9,7 @@ cover-images:
       text: >
         ## Personalization Methods for Text-to-Image Generation
 
-  - image-link: /assets/img/wound_tissue.png
+  - image-link: /assets/img/research/wound_tissue.png
     image-position: center
     url: https://cvrg-iyte.github.io/research
     caption:
