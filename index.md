@@ -9,13 +9,13 @@ cover-images:
       text: >
         ## Personalization Methods for Text-to-Image Generation
 
-  - image-link: /assets/img/71_edited.jpg
+  - image-link: /assets/img/wound_tissue.png
     image-position: center
     url: https://cvrg-iyte.github.io/research
     caption:
       position: center
       text: >
-        ## Panoramic Image Based Localization Improved with Spherical Representations and Semantic Descriptors
+        ## Deep Learning Benchmark for Wound Tissue Segmentation
     
   - image-link: /assets/img/research/endoscope2.png
     image-position: center
