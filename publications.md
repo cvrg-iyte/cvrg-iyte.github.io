@@ -176,6 +176,17 @@ Multi-view Structure-from-Motion for Hybrid Camera Scenarios</a>
 
 <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">International Conference/Workshop Publications</font></b>
 <br>
+
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
+Benchmarking Personalization Methods for Text-to-Image Generation: Dataset, Metric, and a Comprehensive Evaluation Framework
+<br><i>Ozbay, K., Bastanlar, Y.</i>
+<br>ECCV 2026 Workshop on Instance-Level Recognition and Generation, 8-12 Sept 2026.
+
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
+A Deep Learning Benchmark for Wound Tissue Segmentation
+<br><i>Rollas, C., Gullu, M.K., Alici, I.O., Colak, B., Bastanlar, Y.</i>
+<br>ECCV 2026 Workshop on Medical Foundation Models and Benchmarks, 8-12 Sept 2026.
+  
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
 Detection and Classification of Aerial Objects Under Multimodal, Multi Resolution and Small Object Conditions
 <br><i>Karimli, I., Kurt, A., Menekse, M.F., Uysal, H.T., Bastanlar, Y.</i>
