@@ -6,7 +6,7 @@ toc: true
 ---
 ### Ongoing Projects
 <br>
-<img src="/assets/img/research/PEFT.png" width="750">
+<img src="/assets/img/research/PEFT2.png" width="750">
 <br>
 Benchmarking Personalization Methods for Text-to-Image Generation [2025-..].
 <br>
@@ -14,7 +14,7 @@ Benchmarking Personalization Methods for Text-to-Image Generation [2025-..].
 <br>
 ### Completed Projects
 
-<img src="/assets/img/research/endoscope.png" width="750">
+<img src="/assets/img/research/endoscope2.png" width="750">
 <br>
 Guiding Robotic Endoscope via Surgical Instrument Detection and Tracking [2023-2026].
 <br>
