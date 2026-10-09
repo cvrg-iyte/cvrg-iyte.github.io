@@ -323,15 +323,21 @@ IEEE Conference on Signal Processing and Communications Applications (SIU) 2014,
 <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Theses</font></b>
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
+<a href="/assets/docs/Publications/SerhatCanerTEZ_5Agustos.pdf" target="blank">
+Effective Retrieval Approaches for Radiology Summary Generation with Open-Source Large Language Models</a><br>
+Serhat Caner, 2026, Ph.D. Thesis, Izmir Institute of Technology, Izmir, Turkey.
+</font></p>
+
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
 <a href="/assets/docs/Publications/Metehan_master_thesis_final.pdf" target="blank"> 
 Guiding Robotic Endoscope via Deep Learning Based Surgical Instrument Detection</a><br>
 Metehan Seyran, 2026, M.Sc. Thesis, Izmir Institute of Technology, Izmir, Turkey.
 </font></p>
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
-<a href="/assets/docs/Publications/SerhatCanerTEZ_5Agustos.pdf" target="blank">
-Effective Retrieval Approaches for Radiology Summary Generation with Open-Source Large Language Models</a><br>
-Serhat Caner, 2026, Ph.D. Thesis, Izmir Institute of Technology, Izmir, Turkey.
+<a href="/assets/docs/Publications/Kutay_Ozbay_MSc_Thesis.pdf" target="blank"> 
+Evaluation of Parameter-Efficient Fine-tuning Methods for Personalized Text-to-image Generation</a><br>
+Kutay Ozbay, 2026, M.Sc. Thesis, Izmir Institute of Technology, Izmir, Turkey.
 </font></p>
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
