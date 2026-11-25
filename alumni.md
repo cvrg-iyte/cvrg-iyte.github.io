@@ -16,13 +16,13 @@ permalink: /members/alumni
 
 * Dr. Ipek Barış Schlicht &nbsp; <img src="/assets/img/linkedin.png" width="25"> &nbsp; [LinkedIn](https://www.linkedin.com/in/ipekbaris/)
 
-* Hakan Hekimgil (now working at CubeHX, Toronto, Canada)
+* Hakan Hekimgil &nbsp; <img src="/assets/img/linkedin.png" width="25"> &nbsp; [LinkedIn](https://www.linkedin.com/in/hakanhekimgil/)
 
-* Ulaş Tekeli (now working at Rapsodo, Izmir)
+* Ulaş Tekeli  &nbsp; <img src="/assets/img/linkedin.png" width="25"> &nbsp; [LinkedIn](https://www.linkedin.com/in/tekeliulas/)
 
-* Bahadır Mezgil (now working at Getir, Izmir)
+* Bahadır Mezgil &nbsp; <img src="/assets/img/linkedin.png" width="25"> &nbsp; [LinkedIn](https://www.linkedin.com/in/bahadir-mezgil/)
 
-* Ünver Can Ünlü
+* Ünver Can Ünlü &nbsp; <img src="/assets/img/linkedin.png" width="25"> &nbsp; [LinkedIn](https://www.linkedin.com/in/unvercanunlu/)
   
-* Burak Yörük (now working at Meshine Swarm Technologies, Izmir)
+* Burak Yörük &nbsp; <img src="/assets/img/linkedin.png" width="25"> &nbsp; [LinkedIn](https://www.linkedin.com/in/byoruk/)
 
