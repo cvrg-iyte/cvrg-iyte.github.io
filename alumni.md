@@ -8,7 +8,8 @@ permalink: /members/alumni
 
 * Yağız Nalçakan (now a post-doc researcher at Yonsei University, South Korea)
 
-* Semih Orhan LinkedIn (https://www.linkedin.com/in/semih-orhan-075a7419b/)
+* Semih Orhan <img src="/assets/img/linkedin.png" width="25">
+<br> [LinkedIn](https://www.linkedin.com/in/semih-orhan-075a7419b/)
 
 * İbrahim Çınaroğlu (now an Asst. Prof. at Karamanoglu Mehmetbey University, Turkey)
 
