@@ -12,7 +12,7 @@ permalink: /members/alumni
 
 * Dr. İbrahim Çınaroğlu (now an Asst. Prof. at Karamanoglu Mehmetbey University, Turkey)
 
-* Dr. Hakkı Can Karaimer [LinkedIn](https://www.linkedin.com/in/karaimer/)
+* Dr. Hakkı Can Karaimer &nbsp; <img src="/assets/img/linkedin.png" width="25"> &nbsp; [LinkedIn](https://www.linkedin.com/in/karaimer/)
 
 * Dr. Ipek Barış (now a Ph.D. student in Universitat Politècnica de València, Spain)
 
