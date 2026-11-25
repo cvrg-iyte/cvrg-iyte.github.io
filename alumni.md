@@ -8,11 +8,11 @@ permalink: /members/alumni
 
 * Yağız Nalçakan (now a post-doc researcher at Yonsei University, South Korea)
 
-* Semih Orhan (https://www.linkedin.com/in/semih-orhan-075a7419b/))
+* Semih Orhan LinkedIn (https://www.linkedin.com/in/semih-orhan-075a7419b/)
 
 * İbrahim Çınaroğlu (now an Asst. Prof. at Karamanoglu Mehmetbey University, Turkey)
 
-* Hakkı Can Karaimer (now working at Qualcomm, Toronto, Canada)
+* Hakkı Can Karaimer [LinkedIn](https://www.linkedin.com/in/karaimer/)
 
 * Ipek Barış (now a Ph.D. student in Universitat Politècnica de València, Spain)
 
