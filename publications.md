@@ -316,6 +316,7 @@ IEEE Conference on Signal Processing and Communications Applications (SIU) 2014,
 <br>To download the image datasets used in this paper, click <a href="https://cvrg-iyte.github.io/datasets/" target="blank">here</a>, or select '<b>Datasets</b>' tab above. 
  </font></p>
 <br>
+
 <!------------->
 <!-- THESES  -->
 
@@ -323,14 +324,14 @@ IEEE Conference on Signal Processing and Communications Applications (SIU) 2014,
 <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Theses</font></b>
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
-<a href="/assets/docs/Publications/SerhatCanerTEZ_5Agustos.pdf" target="blank">
-Effective Retrieval Approaches for Radiology Summary Generation with Open-Source Large Language Models</a><br>
+<!-- <a href="/assets/docs/Publications/SerhatCanerTEZ_5Agustos.pdf" target="blank"> -->
+Effective Retrieval Approaches for Radiology Summary Generation with Open-Source Large Language Models<br>
 Serhat Caner, 2026, Ph.D. Thesis, Izmir Institute of Technology, Izmir, Turkey.
 </font></p>
 
 <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
-<a href="/assets/docs/Publications/Metehan_master_thesis_final.pdf" target="blank"> 
-Guiding Robotic Endoscope via Deep Learning Based Surgical Instrument Detection</a><br>
+<!--<a href="/assets/docs/Publications/Metehan_master_thesis_final.pdf" target="blank"> -->
+Guiding Robotic Endoscope via Deep Learning Based Surgical Instrument Detection<br>
 Metehan Seyran, 2026, M.Sc. Thesis, Izmir Institute of Technology, Izmir, Turkey.
 </font></p>
 
