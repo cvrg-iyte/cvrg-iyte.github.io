@@ -6,15 +6,15 @@ permalink: /members/alumni
 
 ### Graduated students
 
-* Yağız Nalçakan (now a post-doc researcher at Yonsei University, South Korea)
+* Dr. Yağız Nalçakan (now a post-doc researcher at Yonsei University, South Korea)
 
-* Semih Orhan &nbsp; <img src="/assets/img/linkedin.png" width="25"> &nbsp; [LinkedIn](https://www.linkedin.com/in/semih-orhan-075a7419b/)
+* Dr. Semih Orhan &nbsp; <img src="/assets/img/linkedin.png" width="25"> &nbsp; [LinkedIn](https://www.linkedin.com/in/semih-orhan-075a7419b/)
 
-* İbrahim Çınaroğlu (now an Asst. Prof. at Karamanoglu Mehmetbey University, Turkey)
+* Dr. İbrahim Çınaroğlu (now an Asst. Prof. at Karamanoglu Mehmetbey University, Turkey)
 
-* Hakkı Can Karaimer [LinkedIn](https://www.linkedin.com/in/karaimer/)
+* Dr. Hakkı Can Karaimer [LinkedIn](https://www.linkedin.com/in/karaimer/)
 
-* Ipek Barış (now a Ph.D. student in Universitat Politècnica de València, Spain)
+* Dr. Ipek Barış (now a Ph.D. student in Universitat Politècnica de València, Spain)
 
 * Hakan Hekimgil (now working at CubeHX, Toronto, Canada)
 
