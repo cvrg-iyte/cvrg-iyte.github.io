@@ -26,3 +26,7 @@ permalink: /members/alumni
   
 * Burak Yörük &nbsp; <img src="/assets/img/linkedin.png" width="25"> &nbsp; [LinkedIn](https://www.linkedin.com/in/byoruk/)
 
+* Metehan Seyran &nbsp; <img src="/assets/img/linkedin.png" width="25"> &nbsp; [LinkedIn](https://www.linkedin.com/in/metehan-seyran/)
+
+* Kutay Özbay &nbsp; <img src="/assets/img/linkedin.png" width="25"> &nbsp; [LinkedIn](https://www.linkedin.com/in/kutay-%C3%B6zbay-94b1441a2/)
+  
