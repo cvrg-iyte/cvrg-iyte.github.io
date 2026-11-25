@@ -10,7 +10,7 @@ permalink: /members/alumni
 
 * Dr. Semih Orhan &nbsp; <img src="/assets/img/linkedin.png" width="25"> &nbsp; [LinkedIn](https://www.linkedin.com/in/semih-orhan-075a7419b/)
 
-* Dr. İbrahim Çınaroğlu (now an Asst. Prof. at Karamanoglu Mehmetbey University, Turkey)
+* Dr. İbrahim Çınaroğlu &nbsp; <img src="/assets/img/linkedin.png" width="25"> &nbsp; [LinkedIn](https://www.linkedin.com/in/ibrahim-cinaroglu-phd-computerengineer-researcher/)
 
 * Dr. Hakkı Can Karaimer &nbsp; <img src="/assets/img/linkedin.png" width="25"> &nbsp; [LinkedIn](https://www.linkedin.com/in/karaimer/)
 
