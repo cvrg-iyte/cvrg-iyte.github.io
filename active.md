@@ -32,11 +32,11 @@ permalink: /members/current-members
   ptitle= " MSc Candidate"
   cover-image= "/assets/img/people/cüneyd_celik.jpg"
   email_address= "cuneydcelik@iyte.edu.tr"
-  content="I got my B.Sc. degree from [Computer Engineering, Izmir Institute of Technology](https://ceng.iyte.edu.tr/) in June 2024. My research is on 'use of generative AI techniques for automated car vision sensor data synthesis'. "%}
+  content="I got my B.Sc. degree from [Computer Engineering, Izmir Institute of Technology](https://ceng.iyte.edu.tr/) in 2024. My research is on 'use of generative AI techniques for automated car vision sensor data synthesis'. "%}
 
 {% include spotlight-inline.html
   name="Yiğit Eren Durmaz"
   ptitle= " MSc Candidate"
   cover-image= "/assets/img/people/yigit_eren_durmaz.jpg"
   email_address= "yigitdurmaz@iyte.edu.tr"
-  content="I got my B.Sc. degree from [Computer Engineering, Izmir Institute of Technology](https://ceng.iyte.edu.tr/) in June 2025. My research is on 'Effects of Adverse Weather Conditions on the Bird’s Eye View Formation Process in Autonomous Vehicles'. "%}
+  content="I got my B.Sc. degree from [Computer Engineering, Izmir Institute of Technology](https://ceng.iyte.edu.tr/) in 2024. My research is on 'Effects of Adverse Weather Conditions on the Bird’s Eye View Formation Process in Autonomous Vehicles'. "%}
