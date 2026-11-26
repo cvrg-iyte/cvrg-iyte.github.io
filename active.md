@@ -41,3 +41,16 @@ permalink: /members/current-members
   email_address= "enesyilmaz@iyte.edu.tr"
   content="I got my B.Sc. degree from [Computer Engineering, Izmir Institute of Technology](https://ceng.iyte.edu.tr/) in 2024. My research is on 'Investigation of Edge Case Data Generation Techniques for Autonomous Driving'. "%}
 
+{% include spotlight-inline.html
+  name="Tuna Eryılmaz"
+  ptitle= " MSc Candidate"
+  cover-image= "/assets/img/people/tuna_eryilmaz.jpg"
+  email_address= "tunaeryilmaz@iyte.edu.tr"
+  content="I got my B.Sc. degree from [Computer Engineering, Dokuz Eylul University](https://ceng.deu.edu.tr/) in 2019. My research is on 'Investigation of Data Representation and Quantum Circuit Architectures in Hybrid Quantum-Classical Machine Learning'. "%}
+
+{% include spotlight-inline.html
+  name="Merve Rumelli"
+  ptitle= " MSc Candidate"
+  cover-image= "/assets/img/people/merve_rumelli.jpg"
+  email_address= "merverumelli@iyte.edu.tr"
+  content="I got my B.Sc. degree from [Computer Engineering, Dokuz Eylul University](https://ceng.deu.edu.tr/) in 2019. My research is on 'Quantum Machine Learning for Computer Vision'. "%}
